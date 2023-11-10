@@ -1,8 +1,8 @@
 # blakjac.com
 
-research  |  music  |  travel  |  games  |  recipes
+training  |  music  |  travel  |  games  |  recipes
 
-## /research/
+## /training/
 
 - diet/
 - fitness/
