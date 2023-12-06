@@ -4,25 +4,29 @@ training  |  games  |  music  |  food
 
 ## /training/
 
-- body/
-  - cookbook/
+- fitness/
   - programs/
+    - 531
+    - PHAT-R
   - research/
-- mind/
-  - learning/
+    - diet
+    - exercises
+    - programming
+    - supplements
+    - volume
+- development/
+  - projects/
+    - blakejacobus.com
+    - corndogday.info
+    - creationcookbook.com
+    - particlepatrol.com
+  - research/
     - css
     - html
     - infrastructure
     - javascript
     - linux
     - python
-  - projects/
-    - blakejacobus.com
-    - corndogday.info
-    - creationcookbook.com
-    - particlepatrol.com
-- spirit/
-  - TBD
 
 ## /games/
 
