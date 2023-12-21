@@ -1,29 +1,46 @@
 # blakejacobus.com
 
-training  |  music  |  travel  |  games  |  recipes
+training  |  games  |  music  |  food
 
 ## /training/
 
-- diet/
 - fitness/
-- technology/
-
-## /music/
-
-- playlists/
-- recordings/
-
-## /travel/
-
-- arizona/
-- illinois/
+  - programs/
+    - 531
+    - PHAT-R
+  - research/
+    - diet
+    - exercises
+    - programming
+    - supplements
+    - volume
+- development/
+  - projects/
+    - blakejacobus.com
+    - corndogday.info
+    - creationcookbook.com
+    - particlepatrol.com
+  - research/
+    - css
+    - html
+    - infrastructure
+    - javascript
+    - linux
+    - python
 
 ## /games/
 
 - radar/
 - reviews/
 
-## /recipes/
+## /music/
 
-- `corndogday.info`
+- playlists/
+  - spotify
+- recordings/
+  - bandcamp
+
+## /food/
+
 - `creationcookbook.com`
+- `corndogday.info`
