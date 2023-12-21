@@ -1,8 +1,15 @@
 # blakejacobus.com
 
-training  |  games  |  music  |  food
+## To Do
 
-## /training/
+- [ ] Draft content (html)
+- [ ] Research design (css)
+
+## index
+
+work | play | eat
+
+### /work/
 
 - fitness/
   - programs/
@@ -14,7 +21,7 @@ training  |  games  |  music  |  food
     - programming
     - supplements
     - volume
-- development/
+- technology/
   - projects/
     - blakejacobus.com
     - corndogday.info
@@ -28,19 +35,20 @@ training  |  games  |  music  |  food
     - linux
     - python
 
-## /games/
+### /play/
 
-- radar/
-- reviews/
+- games/
+  - radar/
+  - reviews/
+- music/
+  - playlists/
+    - spotify
+  - recordings/
+    - bandcamp
 
-## /music/
+### /eat/
 
-- playlists/
-  - spotify
-- recordings/
-  - bandcamp
-
-## /food/
-
-- `creationcookbook.com`
-- `corndogday.info`
+- cookbook
+  - `creationcookbook.com`
+- corndog day
+  - `corndogday.info`
