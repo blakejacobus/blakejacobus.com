@@ -1,46 +1,32 @@
-# blakejacobus.com
+# resources
 
-training  |  games  |  music  |  food
+- GitHub Pages [https://github.com/skills/github-pages]
 
-## /training/
+# structure
 
-- fitness/
-  - programs/
-    - 531
-    - PHAT-R
-  - research/
-    - diet
-    - exercises
-    - programming
-    - supplements
-    - volume
-- development/
-  - projects/
-    - blakejacobus.com
-    - corndogday.info
-    - creationcookbook.com
-    - particlepatrol.com
-  - research/
-    - css
-    - html
-    - infrastructure
-    - javascript
-    - linux
-    - python
+## daily quotes
+- TBD
 
-## /games/
+## work/
 
+### fitness/
+- programs
+- research
+
+### technology/
+- projects
+- research
+
+## play/
+
+### games/
 - radar/
 - reviews/
 
-## /music/
-
+### music/
 - playlists/
-  - spotify
 - recordings/
-  - bandcamp
 
-## /food/
-
+## eat/
 - `creationcookbook.com`
 - `corndogday.info`
