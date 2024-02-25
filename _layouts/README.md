@@ -19,4 +19,4 @@ Between these triple-dashed lines, you can set predefined variables (see below f
 
 `layout`
 
-If set, this specifies the layout file to use. Use the layout file name without the file extension. Layout files must be placed in the _layouts directory. 
+If set, this specifies the layout file to use. Use the layout file name without the file extension. Layout files must be placed in the _layouts directory.
