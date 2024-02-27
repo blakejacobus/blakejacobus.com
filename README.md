@@ -20,44 +20,51 @@
 
 - [ ] [Configure for multiple repositories](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages#using-a-custom-domain-across-multiple-repositories)
 
-### Customization
+#### Customization
 
-- [ ] [Pick a theme](https://jekyllrb.com/docs/themes/)
+- [x] [Pick a theme](https://jekyllrb.com/docs/themes/)
+  - [x] [Enable Moonwalk](https://github.com/abhinavs/moonwalk/tree/master)
+  - [ ] [Customize Moonwalk](https://github.com/abhinavs/moonwalk?tab=readme-ov-file#customizing)
 - [ ] [Figure out how to create buttons using HTML](https://jekyllcodex.org/without-plugin/buttons/)
   - [ ] [Configure Twitter Bootstrap for styling](https://getbootstrap.com/2.0.2/)
 
-# Limitations
+### Limitations
 
 [https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits]
 
-# Resources
+### Resources
 
 - [Site](www.blakejacobus.com)
 - [GitHub Pages](https://docs.github.com/en/pages/quickstart)
 - [Jekyll](https://jekyllrb.com/docs/github-pages/)
 
-# Structure
+### Structure
 
 ## Work/
 
 ### Fitness/
+
 - Programs
 - Research
 
 ### Technology/
+
 - Projects
 - Research
 
 ## Play/
 
 ### Games/
+
 - Radar/
 - Reviews/
 
 ### Music/
+
 - Playlists/
 - Recordings/
 
 ## Eat/
+
 - `creationcookbook.com`
 - `corndogday.info`
