@@ -1,0 +1,8 @@
+# Stores configuration data. 
+# Many of these options can be specified from the command line executable
+#   but it’s easier to specify them here so you don’t have to remember them.
+
+# [Themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme)
+
+theme: jekyll-theme-moonwalk
+# remote_theme: THEME-NAME
