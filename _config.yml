@@ -4,32 +4,9 @@
 
 # [Themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme)
 
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
-description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+# [https://pages.github.com/themes/]
+# [https://github.com/pages-themes/cayman?tab=readme-ov-file]
 
-permalink: /:slug
-
-remote_theme: abhinavs/moonwalk
-# remote_theme: THEME-NAME
-favicon: "./logo.png" # relative path to site's favicon
-
-theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
-  appearance_toggle: true # if appearance can be switched by user
-  # keys used to create home layout
-  show_navbar: true # show horizontal navbar
-  show_footer: true # show footer links in home page,add in _data/home.yml
-  show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: true # show blog posts added in _posts
-  # options for homepage
-  home:
-  title_projects: Portfolio
-  title_blog: Blog
-
-highlighter: rouge
-
-sass:
-  style: :compressed
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
