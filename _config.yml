@@ -6,7 +6,7 @@
 # [Official themes](https://pages.github.com/themes/)
 # [Cayman](https://github.com/pages-themes/cayman?tab=readme-ov-file)
 
-title: blakejacobus.com
+title: Blake Jacobus
 author: Blake Jacobus
 url: https://www.blakejacobus.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
@@ -48,4 +48,4 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag # disabled per https://github.com/abhinavs/moonwalk/blob/master/github_pages.md
+  - jekyll-seo-tag # updated per https://github.com/abhinavs/moonwalk/blob/master/github_pages.md
