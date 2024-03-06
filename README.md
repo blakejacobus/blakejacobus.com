@@ -23,8 +23,8 @@
 #### Customization
 
 - [x] [Pick a theme](https://jekyllrb.com/docs/themes/)
-  - [x] [Enable Moonwalk](https://github.com/abhinavs/moonwalk/tree/master)
-  - [ ] [Customize Moonwalk](https://github.com/abhinavs/moonwalk?tab=readme-ov-file#customizing)
+  - [x] [Enable Cayman](https://github.com/pages-themes/cayman)
+  - [ ] [Customize Cayman](https://github.com/pages-themes/cayman?tab=readme-ov-file#customizing)
 - [ ] [Figure out how to create buttons using HTML](https://jekyllcodex.org/without-plugin/buttons/)
   - [ ] [Configure Twitter Bootstrap for styling](https://getbootstrap.com/2.0.2/)
 
