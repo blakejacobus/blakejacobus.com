@@ -2,7 +2,7 @@ title: Blake Jacobus
 author: Blake Jacobus
 url: https://www.blakejacobus.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Aspiring engineer, amateur powerbuilder, middling musician, virtual escapist
+  Engineer, powerbuilder, gamer, musician
 
 permalink: /:slug
 
@@ -32,9 +32,6 @@ theme_config:
     title_misc_list: Details
     title_blog: Log
     title_old_projects: Projects
-
-soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
