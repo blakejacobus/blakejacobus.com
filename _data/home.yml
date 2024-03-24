@@ -1,4 +1,5 @@
 navbar_entries:
+
   - title: About
     url: about
 
@@ -6,6 +7,7 @@ navbar_entries:
     url: blog
 
 project_entries:
+
   - title: Work
     url: work
     desc: Technology & Fitness
@@ -19,11 +21,23 @@ project_entries:
     desc: Cookbook & Corn Dogs
 
 old_project_entries:
+
+  - title: Creation Cookbook
+    url: creation-cookbook
+    desc: Vegetarian recipes
+
+  - title: Particle Patrol
+    url: particle-patrol
+    desc: Curated AQI report
+
   - title: Corn Dog Day
     url: corn-dog-day
     desc: A national pasttime
 
 footer_entries:
+
+# TODO: Add icons
+
   - title: LinkedIn
     url: https://www.linkedin.com/in/blake-jacobus-407722112/
 
