@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [work]
 ---
 
 # Moonwalk Guide
@@ -16,3 +17,8 @@ Quick reference for Moonwalk configuration settings. More details at [moonwalk/R
 | `blog.html` | |
 | `CNAME` | Custom domain reference for GitHub pages to perform DNS validation at build time |
 | `index.md` | Homepage file, populated with content by `_layouts/home.html` |
+
+## Reference
+
+- [Moonwalk README](https://github.com/abhinavs/moonwalk/blob/master/README.md)
+- [GitHub Pages Limitations](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits)
