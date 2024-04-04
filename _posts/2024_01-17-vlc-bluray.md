@@ -15,6 +15,9 @@ Unable to read Bluray disc with AACS protection on VLC Media Player
 
 ## Linux
 
-[LibMMBD - MakeMKV decryption API](https://www.makemkv.com/libmmbd/)
+Missing `libmmbd`
+
 [MakeMKV 1.17.6 for Linux is available](https://forum.makemkv.com/forum/viewtopic.php?f=3&t=224)
 [Ubuntu Desktop Install and Integration with VLC](https://forum.makemkv.com/forum/viewtopic.php?t=22845)
+[Ubuntu configuration](https://www.omgubuntu.co.uk/2022/08/watch-bluray-discs-in-vlc-on-ubuntu-with-makemkv)
+[LibMMBD - MakeMKV decryption API](https://www.makemkv.com/libmmbd/)
