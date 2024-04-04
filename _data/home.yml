@@ -22,6 +22,10 @@ project_entries:
 
 old_project_entries:
 
+  - title: Corn Dog Day
+    url: corn-dog-day
+    desc: A national pasttime
+
   - title: Creation Cookbook
     url: creation-cookbook
     desc: Vegetarian recipes
@@ -30,9 +34,31 @@ old_project_entries:
     url: particle-patrol
     desc: Curated AQI report
 
-  - title: Corn Dog Day
-    url: corn-dog-day
-    desc: A national pasttime
+misc_entries:
+
+  - title: Guitars
+    url: guitars
+    desc: Curvy sound machines
+
+  - title: Guns
+    url: guns
+    desc: Alarmingly alluring
+
+  - title: Radar
+    url: radar
+    desc: Future game releases
+
+  - title: Reviews
+    url: reviews
+    desc: Thoughts on games played
+
+  - title: Programs
+    url: programs
+    desc: Training regimens
+
+  - title: Research
+    url: research
+    desc: Wellness studies and reports
 
 footer_entries:
 

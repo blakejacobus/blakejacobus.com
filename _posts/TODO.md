@@ -25,6 +25,8 @@
 
 ### Backlog
 
+- Add table of contents to `blakejacobus.com`
+- Add admonitions and/or emojis to `blakejacobus.com`
 - Configure theme and content for `particlepatrol.com`
 - Configure database and presentation for rotating quotes on homepage
 
