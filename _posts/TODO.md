@@ -20,12 +20,26 @@
 
 ### Priority
 
+- Update various pages to make the site shareable:
+  - [ ] About
+  - [ ] Work
+  - [ ] Play
+  - [ ] Eat
+  - [ ] Blake Jacobus
+  - [ ] Particle Patrol
+  - [ ] Guitars
+  - [ ] Guns
+  - [ ] Radar
+  - [ ] Reviews
+  - [ ] Programs
+  - [ ] Research
+  - [ ] 543
 - Configure theme and content for `creationcookbook.com`
 - Configure theme and content for `corndogday.info`
 
 ### Backlog
 
-- Add table of contents to `blakejacobus.com`
+- Add table of contents to `blakejacobus.com` pages
 - Add admonitions and/or emojis to `blakejacobus.com`
 - Configure theme and content for `particlepatrol.com`
 - Configure database and presentation for rotating quotes on homepage
