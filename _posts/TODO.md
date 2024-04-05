@@ -34,7 +34,7 @@
   - [ ] Programs
   - [ ] Research
   - [ ] 543
-- Removing spacing that precedes footer
+- Removing spacing that precedes
 - Configure theme and content for `creationcookbook.com`
 - Configure theme and content for `corndogday.info`
 
