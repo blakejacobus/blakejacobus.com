@@ -10,7 +10,7 @@ project_entries:
 
   - title: Work
     url: work
-    desc: Technology & Fitness
+    desc: Fitness & Technology
 
   - title: Play
     url: play
@@ -40,9 +40,9 @@ misc_entries:
     url: guitars
     desc: Curvy sound machines
 
-  - title: Guns
-    url: guns
-    desc: Alarmingly alluring
+  # - title: Guns
+  #   url: guns
+  #   desc: Alarmingly alluring
 
   - title: Radar
     url: radar
