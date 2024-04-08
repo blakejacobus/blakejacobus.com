@@ -118,10 +118,13 @@ Writing superblocks and filesystem accounting information: done
 # Make directories
 $ sudo mkdir /mnt/sda
 $ sudo mkdir /mnt/sdb
+# Own directories
+$ sudo chown $USER:$USER /mnt/sda
+$ sudo chown $USER:$USER /mnt/sdb
 # Mount disk partitions
 $ sudo mount /dev/sda1 /mnt/sda
 $ sudo mount /dev/sdb1 /mnt/sdb
-# Validate mountpoints
+# Validate mount points
 $ lsblk /dev/sda
 NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
 sda      8:0    0 931.5G  0 disk 
@@ -137,43 +140,45 @@ sdb      8:16   0 931.5G  0 disk
 ``` bash
 # List UUIDs
 $ sudo blkid
-# Reordered output for readability
+# Edited output for readability
 /dev/nvme0n1p3: UUID="12dc8e82-a72b-4435-a47c-fb717a35d5c3" TYPE="swap" PARTUUID="ca67016a-627d-4cfb-a7c3-40fbdf02a106"
 /dev/nvme0n1p1: UUID="47CC-E4E3" BLOCK_SIZE="512" TYPE="vfat" PARTUUID="f4bf8969-b425-46c0-911d-6446f407ee7a"
 /dev/nvme0n1p2: UUID="a8f830e4-5c95-4b95-9df2-cc5b5c764ca2" BLOCK_SIZE="4096" TYPE="ext4" PARTUUID="07705756-c3e1-43a1-9fa5-c77c3fa846c6"
-/dev/sda1: UUID="a8f55758-aaec-47a5-8013-43887039f241" BLOCK_SIZE="4096" TYPE="ext4" PARTUUID="db76bd75-1aae-8d41-8762-68d378264cd7"
-/dev/sdb1: UUID="652c6b29-bf98-4521-8f57-100296fc27e6" BLOCK_SIZE="4096" TYPE="ext4" PARTUUID="9ba69879-0edc-1846-86f3-9e5ecfcf4b0a"
+# New internal HDD
+/dev/sda1: UUID="652c6b29-bf98-4521-8f57-100296fc27e6" BLOCK_SIZE="4096" TYPE="ext4" PARTUUID="9ba69879-0edc-1846-86f3-9e5ecfcf4b0a"
+# New internal HDD
+/dev/sdb1: UUID="a8f55758-aaec-47a5-8013-43887039f241" BLOCK_SIZE="4096" TYPE="ext4" PARTUUID="db76bd75-1aae-8d41-8762-68d378264cd7"
+# External SSD
 /dev/sdc1: LABEL="Extreme SSD" UUID="CC37-91A7" BLOCK_SIZE="512" TYPE="exfat" PARTLABEL="Extreme SSD" PARTUUID="4923e12d-bc1b-4a67-b4d4-f6ec3971fa59"
-/dev/sr0: UUID="484169255f485034" LABEL="HP4" BLOCK_SIZE="2048" TYPE="udf"
-# Write changes to /etc/fstab
-$ sudo vim fstab
-# Manual entry for /dev/sda; appended to end of file
-UUID=a8f55758-aaec-47a5-8013-43887039f241 /mnt/sda ext4 rw 0 0
-# Manual entry for /dev/sdb; appended to end of file
-UUID=652c6b29-bf98-4521-8f57-100296fc27e6 /mnt/sdb ext4 rw 0 0
-# Validate changes
-blake@malibal /etc $ cat fstab
-# /etc/fstab: static file system information.
-#
-# Use 'blkid' to print the universally unique identifier for a
-# device; this may be used with UUID= as a more robust way to name devices
-# that works even if disks are added and removed. See fstab(5).
-#
-# systemd generates mount units based on this file, see systemd.mount(5).
-# Please run 'systemctl daemon-reload' after making changes here.
-#
-# <file system> <mount point>   <type>  <options>       <dump>  <pass>
-# / was on /dev/nvme0n1p2 during installation
-UUID=a8f830e4-5c95-4b95-9df2-cc5b5c764ca2 /               ext4    errors=remount-ro 0       1
-# /boot/efi was on /dev/nvme0n1p1 during installation
-UUID=47CC-E4E3  /boot/efi       vfat    umask=0077      0       1
-# swap was on /dev/nvme0n1p3 during installation
-UUID=12dc8e82-a72b-4435-a47c-fb717a35d5c3 none            swap    sw              0       0
-# manual entry for /dev/sda
-UUID=a8f55758-aaec-47a5-8013-43887039f241 /mnt/sda ext4 rw 0 0
-# manual entry for /dev/sdb
-UUID=652c6b29-bf98-4521-8f57-100296fc27e6 /mnt/sdb ext4 rw 0 0
+# External disk drive
+/dev/sr0: UUID="8c9c95a0f804ac12" LABEL="HP5_PHOENIX" BLOCK_SIZE="2048" TYPE="udf"
+# Write changes to /etc/fstab using vim or another text editor (may required sudo)
+> # systemd generates mount units based on this file, see systemd.mount(5).
+> # Please run 'systemctl daemon-reload' after making changes here.
+> #
+> # <file system> <mount point>   <type>  <options>       <dump>  <pass>
+> # / was on /dev/nvme0n1p2 during installation
+> UUID=a8f830e4-5c95-4b95-9df2-cc5b5c764ca2 / ext4 errors=remount-ro 0 1
+> # /boot/efi was on /dev/nvme0n1p1 during installation
+> UUID=47CC-E4E3 /boot/efi vfat umask=0077 0 1
+> # swap was on /dev/nvme0n1p3 during installation
+> UUID=12dc8e82-a72b-4435-a47c-fb717a35d5c3 none swap sw 0 0
+> # manual entry for /dev/sda
+> UUID=a8f55758-aaec-47a5-8013-43887039f241 /mnt/sda ext4 rw 0 0
+> # manual entry for /dev/sdb
+> UUID=652c6b29-bf98-4521-8f57-100296fc27e6 /mnt/sdb ext4 rw 0 0
+$ systemctl daemon-reload
+# Restart machine
 ```
+
+### 8. Bookmark Mount Points 
+
+1. Open OS file explorer
+2. Select base filesystem (equivalent to `/` working directory)
+	- For Debian, select "+ Other Locations" and select "Debian GNU/Linux" drive
+3. Select `mnt` directory
+4. Select `sda` directory and then select ellipses in navigation bar to add to bookmarks
+5. Repeat for `mnt/sdb` (or whatever you named your mount point directories)
 
 ## Reference
 
@@ -181,4 +186,6 @@ UUID=652c6b29-bf98-4521-8f57-100296fc27e6 /mnt/sdb ext4 rw 0 0
 - [How to partition and format disks](https://www.cherryservers.com/blog/how-to-partition-and-format-disk-drives-on-linux)
 - [How to mount disk](https://www.malibal.com/guides/how-to-mount-a-hard-drive-on-linux/)
 - [How to mount disk](https://unix.stackexchange.com/questions/72125/correct-way-to-mount-a-hard-drive)
+- [Update mount point permissions](https://askubuntu.com/questions/1157165/cant-write-to-mounted-ext4-hard-drive-in-ubuntu-18-04)
 - [Introduction to filesystem table](https://www.redhat.com/sysadmin/etc-fstab)
+- [Add mount points to explorer bookmarks](https://askubuntu.com/questions/902890/newly-mounted-hard-drive-does-not-show-up-in-file-manager)
