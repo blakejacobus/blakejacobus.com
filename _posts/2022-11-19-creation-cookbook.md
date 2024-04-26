@@ -11,4 +11,4 @@ I have registered `creationcookbook.com` so that I can share vegetarian (and veg
 
 Until the site is live, recipes will be indexed alphabetically as blog posts here:
 
-- [Chickpea Chicken Salad](./2024-04-26-chickpea-chicken-salad.md.md)
+- [Chickpea Chicken Salad](./chickpea-chicken-salad)
