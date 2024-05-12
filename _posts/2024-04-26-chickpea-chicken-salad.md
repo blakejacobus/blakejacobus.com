@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [play, music]
+tags: [eat, recipe]
 ---
 
 # Chickpea Chicken Salad
@@ -16,9 +16,9 @@ tags: [play, music]
 | 1/2 tsp | poultry seasoning |  |
 | 2 tsp | dill |  |
 | 1/3 cup | slivered almonds |  |
-| Variable | Salt |  |
-| Variable | Pepper |  |
-| Variable | Grapes | As many as you want |
+| Variable | salt |  |
+| Variable | pepper |  |
+| Variable | grapes | as many as you want |
 | 6-8 | croissants |  |
 | 1 head | Lettuce |  |
 
