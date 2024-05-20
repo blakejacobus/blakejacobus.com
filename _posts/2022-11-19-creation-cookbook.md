@@ -13,20 +13,20 @@ Until the site is live, recipes will be indexed alphabetically as blog posts her
 
 ### Breakfast
 
-- [Banana Oat Pancakes](./2024-05-20-banana-oat-pancakes)
-- [Chocolate Chip Pancakes](./2024-05-20-chocolate-chip-pancakes)
+- [Banana Oat Pancakes](./banana-oat-pancakes)
+- [Chocolate Chip Pancakes](./chocolate-chip-pancakes)
 
 ### Lunch & Dinner
 
 - [Chickpea Chicken Salad](./chickpea-chicken-salad)
-- [Sweet Potato Sheet Pan Meal](./2024-05-11-sweet-potato-sheet-pan-meal)
-- [Black Bean Burgers](./2024-05-20-black-bean-burgers)
-- [Meatballs](./2024-05-20-meatballs)
+- [Sweet Potato Sheet Pan Meal](./sweet-potato-sheet-pan-meal)
+- [Black Bean Burgers](./black-bean-burgers)
+- [Meatballs](./meatballs)
 
 ### Sides
 
 - [Crispy Potatoes](./crispy-potatoes)
-- [Roasted Brussel Sprouts](./2024-05-20-roasted-brussel-sprouts)
+- [Roasted Brussel Sprouts](./roasted-brussel-sprouts)
 - [Zucchini Parmesan Crisps](./zucchini-parmesan-crisps)
 
 ### Desserts
