@@ -36,14 +36,6 @@ old_project_entries:
 
 misc_entries:
 
-  - title: Guitars
-    url: guitars
-    desc: Curvy sound machines
-
-  # - title: Guns
-  #   url: guns
-  #   desc: Alarmingly alluring
-
   - title: Radar
     url: radar
     desc: Future game releases
@@ -52,9 +44,17 @@ misc_entries:
     url: reviews
     desc: Thoughts on games played
 
+  - title: Playlists
+    url: playlists
+    desc: Curated music
+
   - title: Programs
     url: programs
     desc: Training regimens
+
+  - title: Recordings
+    url: recordings
+    desc: Archived originals and covers
 
   - title: Research
     url: research

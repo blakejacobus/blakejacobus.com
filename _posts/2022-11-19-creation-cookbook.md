@@ -11,4 +11,28 @@ I have registered `creationcookbook.com` so that I can share vegetarian (and veg
 
 Until the site is live, recipes will be indexed alphabetically as blog posts here:
 
+### Breakfast
+
+- [Banana Oat Pancakes](./2024-05-20-banana-oat-pancakes.md)
+- [Chocolate Chip Pancakes](./2024-05-20-chocolate-chip-pancakes.md)
+
+### Lunch & Dinner
+
 - [Chickpea Chicken Salad](./chickpea-chicken-salad)
+- [Sweet Potato Sheet Pan Meal](./2024-05-11-sweet-potato-sheet-pan-meal.md)
+- [Black Bean Burgers](./2024-05-20-black-bean-burgers.md)
+- [Meatballs](./2024-05-20-meatballs.md)
+
+### Sides
+
+- [Crispy Potatoes](./crispy-potatoes)
+- [Roasted Brussel Sprouts](./2024-05-20-roasted-brussel-sprouts.md)
+- [Zucchini Parmesan Crisps](./zucchini-parmesan-crisps)
+
+### Desserts
+
+- In progress...
+
+### Drinks
+
+- In progress...
