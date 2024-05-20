@@ -3,7 +3,7 @@ author: Blake Jacobus
 url: https://www.blakejacobus.com # root address of the site
 description: > # description of the site (multiple lines allowed)
   Father, husband, engineer <br>
-  barbell booster, game goon, meddling musician
+  Barbell booster, game goon, meddling musician
 
 permalink: /:slug
 
