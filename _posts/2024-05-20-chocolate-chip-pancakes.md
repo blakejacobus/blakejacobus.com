@@ -10,6 +10,7 @@ tags: [eat, recipe]
 ## Ingredients
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 | 1 cup | Flour | All purpose |
 | 1/2 cup | Chickpea flour |  |
 | 1 tbsp | Baking powder |  |

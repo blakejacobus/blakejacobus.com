@@ -8,6 +8,7 @@ tags: [eat, recipe]
 ## Ingredients
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 |  |  |  |
 |  |  |  |
 |  |  |  |

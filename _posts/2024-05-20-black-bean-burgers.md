@@ -10,6 +10,7 @@ tags: [eat, recipe]
 ## Ingredients
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 | 1 can | Black beans |  |
 | 1 tbsp | Olive oil |  |
 | 1/2 bag | Frozen mixed peppers | Can also chop up fresh peppers and white onion |

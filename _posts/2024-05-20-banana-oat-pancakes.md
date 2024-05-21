@@ -8,6 +8,7 @@ tags: [eat, recipe]
 ## Ingredients
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 | 2 whole | Bananas | Very ripe/soft |
 | 1 cup | Pancake mix | Can substitute 1 cup flour + 1 tbsp baking powder |
 | 1/2 cup | Oats |  |

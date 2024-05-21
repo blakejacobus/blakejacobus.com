@@ -8,6 +8,7 @@ tags: [eat, recipe]
 ## Ingredients
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 | - | - | - |
 | 1-2 whole | sweet potato |  |
 | 3-4 crowns | broccoli |  |

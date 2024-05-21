@@ -8,6 +8,7 @@ tags: [eat, recipe, side]
 ## Ingredients
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 | 1/2 cup | Canola oil |  |
 | 1/2 cup | Bread crumbs |  |
 | 1/4 cup | Parmesan cheese |  |
