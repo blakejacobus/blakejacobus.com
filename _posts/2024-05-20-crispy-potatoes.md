@@ -8,6 +8,7 @@ tags: [eat, recipe, side]
 ## Ingredients
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 | Various | Idaho potatoes |  |
 | N/A | Unsalted butter | Amount varies with potatoes |
 | N/A | Olive oil | Amount varies with potatoes |

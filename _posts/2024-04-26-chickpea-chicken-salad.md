@@ -8,6 +8,7 @@ tags: [eat, recipe]
 ## Ingredients
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 | - | - | - |
 | 1 can | chickpeas | drained and rinsed |
 | 1/2 cup | greek yogurt |  |

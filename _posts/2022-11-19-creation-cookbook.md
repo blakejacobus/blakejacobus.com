@@ -18,15 +18,20 @@ Until the site is live, recipes will be indexed alphabetically as blog posts her
 
 ### Lunch & Dinner
 
-- [Chickpea Chicken Salad](./chickpea-chicken-salad)
-- [Sweet Potato Sheet Pan Meal](./sweet-potato-sheet-pan-meal)
+- [Baked Potato Soup](./baked-potato-soup)
 - [Black Bean Burgers](./black-bean-burgers)
-- [Meatballs](./meatballs)
+- [Chickpea Chicken Salad](./chickpea-chicken-salad)
+- [Chickpea Meatballs](./chickpea-meatballs)
+- [Jambalaya](./jambalaya)
+- [Sweet Heat Grilled Cheese](./sweet-heat-grilled-cheese)
+- [Sweet Potato Sheet Pan Meal](./sweet-potato-sheet-pan-meal)
+- [Tomato Pesto Grilled Cheese](./tomato-pesto-grilled-cheese)
 
 ### Sides
 
 - [Crispy Potatoes](./crispy-potatoes)
 - [Roasted Brussel Sprouts](./roasted-brussel-sprouts)
+- [Roasted Veggies](./roasted-veggies)
 - [Zucchini Parmesan Crisps](./zucchini-parmesan-crisps)
 
 ### Desserts

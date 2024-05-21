@@ -10,6 +10,7 @@ tags: [eat, recipe]
 ## Ingredients
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 | 1.5 lbs | Brussel sprouts |  |
 | 2 tbsp | Olive oil |  |
 | 2 tbsp | Balsamic vinegar | Don't overdo this |

@@ -3,15 +3,16 @@ layout: post
 tags: [eat, recipe]
 ---
 
-# Bean Meatballs
+# Chickpea Meatballs
 
 > Source: https://minimalistbaker.com/simple-vegan-meatballs/#wprm-recipe-container-35801
 
 ## Ingredients
 
-### Meatballs
+### Chickpea Meatballs
 
 | Serving | Ingredient | Notes |
+|-|-|-|
 | 2 tbsp | Olive oil | Can use more or less for cooking |
 | 1/2 cup | White onion | Minced |
 | 3 cloves | Garlic | Minced |
