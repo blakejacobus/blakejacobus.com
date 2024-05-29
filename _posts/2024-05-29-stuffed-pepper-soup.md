@@ -3,7 +3,7 @@ layout: post
 tags: [eat, recipe]
 ---
 
-# Vegan Stuff Pepper Soup
+# Stuffed Pepper Soup
 
 > Source: https://choosingchia.com/vegan-stuffed-pepper-soup/
 
