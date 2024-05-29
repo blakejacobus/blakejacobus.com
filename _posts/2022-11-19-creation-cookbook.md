@@ -23,6 +23,7 @@ Until the site is live, recipes will be indexed alphabetically as blog posts her
 - [Chickpea Chicken Salad](./chickpea-chicken-salad)
 - [Chickpea Meatballs](./chickpea-meatballs)
 - [Jambalaya](./jambalaya)
+- [Pasta e Fagioli Soup](./pasta-e-fagioli-soup)
 - [Sweet Heat Grilled Cheese](./sweet-heat-grilled-cheese)
 - [Sweet Potato Sheet Pan Meal](./sweet-potato-sheet-pan-meal)
 - [Tomato Pesto Grilled Cheese](./tomato-pesto-grilled-cheese)
