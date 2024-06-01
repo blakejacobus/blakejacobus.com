@@ -2,9 +2,12 @@ title: Blake Jacobus
 author: Blake Jacobus
 url: https://www.blakejacobus.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  💜 Father & husband 💍  <br>
-  💪 engineer & powerbuilder 💻 <br>
-  🎲 gamer & musician 🎵
+  💜 Father <br>
+  💍 Husband <br>
+  💻 Engineer <br>
+  💪 Powerbuilder <br>
+  🎲 Gamer <br>
+  🎵 Musician
 
 permalink: /:slug
 
