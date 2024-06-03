@@ -20,10 +20,12 @@ Until the site is live, recipes will be indexed alphabetically as blog posts her
 
 - [Baked Potato Soup](./baked-potato-soup)
 - [Black Bean Burgers](./black-bean-burgers)
+- [Black Bean Lentil Chili](./black-bean-lentil-chili)
 - [Broccoli Spaghetti](./broccoli-spaghetti)
 - [Chickpea Chicken Salad](./chickpea-chicken-salad)
 - [Chickpea Meatballs](./chickpea-meatballs)
 - [Jambalaya](./jambalaya)
+- [Lentil Sloppy Joe's](./lentil-sloppy-joes)
 - [Pasta e Fagioli Soup](./pasta-e-fagioli-soup)
 - [Stuffed Pepper Soup](./stuffed-pepper-soup)
 - [Sweet Heat Grilled Cheese](./sweet-heat-grilled-cheese)
