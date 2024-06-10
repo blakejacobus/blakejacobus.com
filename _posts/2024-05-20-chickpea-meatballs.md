@@ -5,7 +5,7 @@ tags: [eat, recipe]
 
 # Chickpea Meatballs
 
-> Source: https://minimalistbaker.com/simple-vegan-meatballs/#wprm-recipe-container-35801
+_Source: [Minimalist Baker](https://minimalistbaker.com/simple-vegan-meatballs/#wprm-recipe-container-35801)_
 
 ## Ingredients
 

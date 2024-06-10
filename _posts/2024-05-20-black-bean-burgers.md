@@ -5,7 +5,7 @@ tags: [eat, recipe]
 
 # Black Bean Burgers
 
-> Source: https://sallysbakingaddiction.com/best-black-bean-burgers/#tasty-recipes-66440
+_Source: [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/#tasty-recipes-66440)_
 
 ## Ingredients
 

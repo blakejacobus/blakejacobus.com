@@ -5,7 +5,7 @@ tags: [eat, recipe]
 
 # Roasted Brussel Sprouts
 
-> Source: https://www.spendwithpennies.com/balsamic-roasted-brussels-sprouts/#wprm-recipe-container-222393
+_Source: [Spend With Pennies](https://www.spendwithpennies.com/balsamic-roasted-brussels-sprouts/#wprm-recipe-container-222393)_
 
 ## Ingredients
 

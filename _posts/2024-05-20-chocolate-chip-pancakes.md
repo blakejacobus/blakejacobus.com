@@ -5,8 +5,6 @@ tags: [eat, recipe]
 
 # Chocolate Chip Pancakes
 
-> Source: TBD
-
 ## Ingredients
 
 | Serving | Ingredient | Notes |
