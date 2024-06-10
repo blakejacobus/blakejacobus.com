@@ -24,7 +24,7 @@ tags: [play, games]
     - `Fia`, the deathbed companion
     - `Dung Eater`
     - `Gideon Ofneir`
-    - ...and one of no renown (`Edward Cullen, the Sullen`)
+    - ...and one of no renown (`Edward Cullen the Sullen`)
 
 ### Exploration
 
@@ -32,6 +32,10 @@ tags: [play, games]
 - *Stonesword Keys* can be used to break *imp statue* seals
 
 ## Character
+
+### Background & Build
+
+TBD
 
 ### Items & Abilities
 
@@ -119,13 +123,17 @@ tags: [play, games]
     > I was known as a Deathbed Companion, where I come from.
     - Provides *Balchadin's Blessing* in exchange for a hug
 
+### Stormveil Castle
+
+- `Sorcerer Rogier`, located in a chapel in the northwest region of `Stormveil Castle`, offered to teach me some battle arts, as a fellow **Tarnished**
+
 ## Other
 
 ### Shitlist
 
 - `Ulcerated Tree Spirit`, located within the `Fringefolk Hero's Grave` (accessed through `Stranded Graveyard`)
 - `Crucible Knight` at `Stormhill Evergaol`
-- `Bell Bearing Hunter`, who appears in `Warmaster's Shack` at night 
+- `Bell Bearing Hunter`, who appears in `Warmaster's Shack` at night
 
 ### Miscellaneous
 
@@ -133,3 +141,5 @@ tags: [play, games]
 - Obtain *Gold Sewing Needle* to alter certain *armor* pieces
 - Buy or find a *Sacred Seal* in order to case incantations
     - Increase *Faith* to 15 so that I can use *Dragonfire* incantation
+- Collect *Exile* armor set, specifically the gauntlets and greaves
+- Use *Gold-Pickled Fowl Foot* to clear `Limgrave` and `Stormveil Castle` and collect lots of runes
