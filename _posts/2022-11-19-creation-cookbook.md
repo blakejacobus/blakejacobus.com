@@ -24,7 +24,7 @@ Until the site is live, recipes will be indexed alphabetically as blog posts her
 - [Broccoli Spaghetti](./broccoli-spaghetti)
 - [Chickpea Chicken Salad](./chickpea-chicken-salad)
 - [Chickpea Meatballs](./chickpea-meatballs)
-- [Gnocchi & Veggies](./gnocchi-veggies)
+- [Gnocchi & Veggies](./gnocchi-and-veggies)
 - [Jambalaya](./jambalaya)
 - [Lentil Sloppy Joe's](./lentil-sloppy-joes)
 - [Pasta e Fagioli Soup](./pasta-e-fagioli-soup)
