@@ -5,7 +5,7 @@ tags: [eat, recipe]
 
 # Stuffed Pepper Soup
 
-> Source: https://choosingchia.com/vegan-stuffed-pepper-soup/
+_Source: [Choosing Chia](https://choosingchia.com/vegan-stuffed-pepper-soup/)_
 
 ## Ingredients
 

@@ -5,7 +5,7 @@ tags: [eat, recipe]
 
 # Lentil Sloppy Joe's
 
-> Source: [https://amindfullmom.com/slow-cooker-vegan-sloppy-joes/](https://amindfullmom.com/slow-cooker-vegan-sloppy-joes/)
+_Source: [A Mind Full Mom](https://amindfullmom.com/slow-cooker-vegan-sloppy-joes/)_
 
 ## Ingredients
 
