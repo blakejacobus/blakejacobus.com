@@ -22,17 +22,17 @@ project_entries:
 
 old_project_entries:
 
-  - title: Corn Dog Day
-    url: corn-dog-day
-    desc: A national pasttime
-
   - title: Creation Cookbook
     url: creation-cookbook
-    desc: Vegetarian recipes
+    desc: Vegetarian recipes <br> 🚧 <i> Under construction </i>
+
+  - title: Corn Dog Day
+    url: corn-dog-day
+    desc: A national pasttime <br> ⏰ <i> Future project </i>
 
   - title: Particle Patrol
     url: particle-patrol
-    desc: Curated AQI report
+    desc: Curated AQI report <br> ⏰ <i> Future project </i>
 
 misc_entries:
 
@@ -54,7 +54,7 @@ misc_entries:
 
   - title: Recordings
     url: recordings
-    desc: Personal productions
+    desc: Audio productions
 
   - title: Research
     url: research
