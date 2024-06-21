@@ -5,7 +5,9 @@ tags: [work, environment]
 
 # Particle Patrol
 
-Registered on November 11, 2023: `particlepatrol.com`
+> Registered on November 11, 2023: `particlepatrol.com`
+
+_Additional notes in repository [README](https://github.com/blakejacobus/particlepatrol.com)_
 
 By using the [AirNow API](https://docs.airnowapi.org/), I want to collect air quality index data on-demand and over time to contrast air quality for specific areas and send alerts when there are significant deviations from the norm.
 
