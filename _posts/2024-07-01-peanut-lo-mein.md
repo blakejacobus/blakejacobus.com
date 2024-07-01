@@ -13,7 +13,7 @@ tags: [eat, recipe]
 | 2 whole | Bell pepper |  |
 | 1/2 bag | Shredded carrots |  |
 | 2-4 bundles | Lo mein | 2-4 servings if not bundled in packaging |
-| [Peanut sauce](./2024-07-01-peanut-lo-mein.md) |  | See recipe |
+| [Peanut sauce](./peanut-sauce) |  | See recipe |
 
 ## Instructions
 
