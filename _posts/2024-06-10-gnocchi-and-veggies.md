@@ -10,6 +10,7 @@ tags: [eat, recipe]
 | Serving | Ingredient | Notes |
 |-|-|-|
 | 1 lb | Gnocchi |  |
+| 2-3 crowns | Broccoli | |
 | 2 whole | Bell peppers |  |
 | 1 whole | Zucchini | Can substitute squash and/or other veggies |
 | 1 pint | Cherry tomatoes |  |

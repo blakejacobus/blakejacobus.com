@@ -10,7 +10,7 @@ tags: [eat, recipe]
 | Serving | Ingredient | Notes |
 |-|-|-|
 | 1 tbsp | Olive oil |  |
-| 1 cup water |  |  |
+| 1 cup | Water |  |
 | 1 cup | Mirepoix mix | Frozen section |
 | 2 cups | Vegetable stock |  |
 | 1/2 cup | Ditalini pasta |  |
