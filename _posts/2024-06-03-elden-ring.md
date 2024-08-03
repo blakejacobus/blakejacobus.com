@@ -72,6 +72,45 @@ tags: [play, games]
 
 ## Journey 
 
+### Roundtable Hold
+
+- `Brother Corhyn`
+    > I teach incantations, the strength granted us by the *Two Fingers*, and explore the secrets of the Golden Order.
+- `Gideon Ofnir`
+    > Oh, this is a rare occasion. I can't remember the last time a new Tarnished made their way to the Roundtable. Very well. As your senior, I bid you welcome. It is safe here. You may let down your guard. <br>
+    > Follow the guidance of grace, lay low the shardbearers, and claim for yourself a Great Rune. <br>
+    > Do so, and the doors to the Roundtable's inner chamber will open. And you will receive the wisdom of the Two Fingers.
+    - Welcomed me after defeating `Godrick` and offered information on the remaining 4 demigods:
+        - `Radahn` in the `Caelid Wilds`
+        - `Rykard` in `Mt. Gelmir`, west of the `Altus Plateau`; the realm of the **Erdtree**
+        - `Morgott the Grace-Given` is Lord of `Leyndell`, the capital city...at the foot of the Erdtree, in the east of the `Altus Plateau`. 
+            > But the **Two Fingers** forbid us from venturing there. Until we've acquired enough **Great Runes** to repair the **Elden Ring**.
+        - `Rennala` is the queen of the Carian royals, who govern the `Academy of Raya Lucaria`
+            > The `Academy of Raya Lucaria` lies to `Limgrave's` north, towering over the mist-laden lands of `Liurnia`. 
+            > Her beloved, `Radagon`, left her to become `Queen Marika's` second husband, taking the title of *King Consort*. The **Great Rune** dwells within the *amber egg* that was `Radagon's` gift to her.
+- `Roderika`, referred to as `Heartbroken Maiden` (inside `Stormhill Shack`) made her way here
+    - She has taken up an apprenticeship with `Hewg`, learning about *spirit tuning*
+- `Diallos`
+    > Asks about a woman named `Lanya`, his servant, and asks me to let him know if I find her
+- `Smithing Master Hewg`
+    > I'm a prisoner, and these are my chains. I'm trapped by the Hold, undying, smithing for you fools. <br>
+    > Despite my differences, the weapons get stronger, all the same. Given time, technique never fails. Besides, it helps me forget. The sheer terror of her..." <br>
+    > "The girl you brought here...she has a gift for spirit tuning. I saw another one like her, long ago. Their eyes share the same hue".
+- `Fia, Deathbed Companion`
+    > I was known as a Deathbed Companion, where I come from.
+    - Provides *Balchadin's Blessing* in exchange for a hug
+    > My dear... Have you ever heard of black knifeprints? Dear Rogier likes to talk of it when abed. The ancient plot, in which the first of the Demigods was slain. The black knifes wielded by the assassins who committed the act, along with the impressions they made, somehow hide the truth of the conspiracy. These grand affairs are hardly my forté...But dear Rogier began to weep as he spoke...In truth I've heard tell from someone else, about the black knifeprints that fascinate dear Rogier so.
+    - Gave me *Knifeprint Clue*, a simple map showing the location of a *black knifeprint*
+- `Enia, the Finger Reader`
+    > I interpret the words of the Fingers, envoys to the Greater Will.
+    > Demigods, and even the greater of the champions, are hewn by the Erdtree upon their end, into remembrances.
+    > These remembrances yet house the power of their former masters. And should you wish to wield that same power, well... I will lend you the strength of the Fingers.
+    > Great Runes are the stuff of demigods: the children of the goddess, Queen Marika. She who is vessel of the Elden Ring. 
+    > Tainted by the strength of their runes, her children warred, but none could become Elden Lord. And so grace was extended, to your kind, the Tarnished".
+- `Nepheli Loux` is the adopted daughter of `Gideon Ofnir`
+- `Sorcerer Rogier`
+    > The misshapen corpse under Stormveil? That is a sacred relic. Of the black knives plot. It happened during the Golden Age of the Erdtree, long before the shattering of the Elden Ring. Someone stole a fragment of the Rune of Death from Maliketh, the Black Blade. And on a bitter night, murdered Godwyn the Golden. That was the first recorded Death of a demigod in all history. And it became the catalyst. Soon, the Elden Ring was smashed, and thus sprang forth the war known as the Shattering.
+
 ### Limgrave
 
 - `White Mask Varre`, a mysterious man near `Stranded Graveyard`, prompted me to follow the guidance of grace to `Castle Stormveil` and confront `Godrick the Grafted`
@@ -116,6 +155,10 @@ tags: [play, games]
     > After they declared they wouldn't interfere with the **Shattering**, the academy cast repelling seals on the east gate leading to the **Capital** and the south gate leading here. <br>
     > As you might have guessed, the seals are still active, making entry to the academy impossible without a **glintstone key**. <br>
     > `Sellen` was well known. The most promising sorceress in the history of the academy...But `Sellen` was expelled from the academy. Accused of unthinkable treatment of certain sorcerers, under the name of the Graven Witch.
+- `Fringefolk Hero's Grave`
+    - Defeated a knight and obtained *Dragon Communion Seal*, which boosts my Dragon Communion incantations
+    - Dropped a pot on the *Chariot* and obtained the *Erdtree Greatbow*
+    - I hate this dungeon so much
 
 #### Stormveil Castle
 
@@ -142,51 +185,52 @@ tags: [play, games]
             - Unlocks *Axe of Godrick* or *Grafted Dragon*, neither of which I care for
             - Remembrances can be duplicated at a `Wandering Mausoleum`. Only one remembrance may be duplicated per mausoleum, and only one time.
 
-### Roundtable Hold
+### Weeping Peninsula
 
-- `Brother Corhyn`
-    > I teach incantations, the strength granted us by the *Two Fingers*, and explore the secrets of the Golden Order.
-- `Gideon Ofnir`
-    > Oh, this is a rare occasion. I can't remember the last time a new Tarnished made their way to the Roundtable. Very well. As your senior, I bid you welcome. It is safe here. You may let down your guard. <br>
-    > Follow the guidance of grace, lay low the shardbearers, and claim for yourself a Great Rune. <br>
-    > Do so, and the doors to the Roundtable's inner chamber will open. And you will receive the wisdom of the Two Fingers.
-    - Welcomed me after defeating `Godrick` and offered information on the remaining 4 demigods:
-        - `Radahn` in the `Caelid Wilds`
-        - `Rykard` in `Mt. Gelmir`, west of the `Altus Plateau`; the realm of the **Erdtree**
-        - `Morgott the Grace-Given` is Lord of `Leyndell`, the capital city...at the foot of the Erdtree, in the east of the `Altus Plateau`. 
-            > But the **Two Fingers** forbid us from venturing there. Until we've acquired enough **Great Runes** to repair the **Elden Ring**.
-        - `Rennala` is the queen of the Carian royals, who govern the `Academy of Raya Lucaria`
-            > The `Academy of Raya Lucaria` lies to `Limgrave's` north, towering over the mist-laden lands of `Liurnia`. 
-            > Her beloved, `Radagon`, left her to become `Queen Marika's` second husband, taking the title of *King Consort*. The **Great Rune** dwells within the *amber egg* that was `Radagon's` gift to her.
-- `Roderika`, referred to as `Heartbroken Maiden` (inside `Stormhill Shack`) made her way here
-    - She has taken up an apprenticeship with `Hewg`, learning about *spirit tuning*
-- `Diallos`
-    > Asks about a woman named `Lanya`, his servant, and asks me to let him know if I find her
-- `Smithing Master Hewg`
-    > I'm a prisoner, and these are my chains. I'm trapped by the Hold, undying, smithing for you fools. <br>
-    > Despite my differences, the weapons get stronger, all the same. Given time, technique never fails. Besides, it helps me forget. The sheer terror of her..." <br>
-    > "The girl you brought here...she has a gift for spirit tuning. I saw another one like her, long ago. Their eyes share the same hue".
-- `Fia, Deathbed Companion`
-    > I was known as a Deathbed Companion, where I come from.
-    - Provides *Balchadin's Blessing* in exchange for a hug
-    > My dear... Have you ever heard of black knifeprints? Dear Rogier likes to talk of it when abed. The ancient plot, in which the first of the Demigods was slain. The black knifes wielded by the assassins who committed the act, along with the impressions they made, somehow hide the truth of the conspiracy. These grand affairs are hardly my forté...But dear Rogier began to weep as he spoke...In truth I've heard tell from someone else, about the black knifeprints that fascinate dear Rogier so.
-    - Gave me *Knifeprint Clue*, a simple map showing the location of a *black knifeprint*
-- `Enia, the Finger Reader`
-    > I interpret the words of the Fingers, envoys to the Greater Will.
-    > Demigods, and even the greater of the champions, are hewn by the Erdtree upon their end, into remembrances.
-    > These remembrances yet house the power of their former masters. And should you wish to wield that same power, well... I will lend you the strength of the Fingers.
-    > Great Runes are the stuff of demigods: the children of the goddess, Queen Marika. She who is vessel of the Elden Ring. 
-    > Tainted by the strength of their runes, her children warred, but none could become Elden Lord. And so grace was extended, to your kind, the Tarnished".
-- `Nepheli Loux` is the adopted daughter of `Gideon Ofnir`
-- `Sorcerer Rogier`
-    > The misshapen corpse under Stormveil? That is a sacred relic. Of the black knives plot. It happened during the Golden Age of the Erdtree, long before the shattering of the Elden Ring. Someone stole a fragment of the Rune of Death from Maliketh, the Black Blade. And on a bitter night, murdered Godwyn the Golden. That was the first recorded Death of a demigod in all history. And it became the catalyst. Soon, the Elden Ring was smashed, and thus sprang forth the war known as the Shattering.
+- Grace uniquely pointing south; following it to see why
+- `Irina`, a blind woman on the side of the road, and an escapee from `Castle Morne`
+    - Asked me to take a letter to her father there, to convince him to leave
+    - After speaking with her father, I returned to find her dead with a curved sword left next to her body.
+- `Ailing Village` is infested with *Frenzy* and *yellow ember*, a source of it
+- An ethereal candelabrum appeared ___ and led me to `Earthbore Cave`
+    - Inside was a nest of rats and a *Runebear*, which dropped the *Spelldrake Talisman*
+- `Church of Pilgrimage`, located at the north peak of the `Weeping Peninsula`
+    - A `Stranded Soul` outside speaks of the `Wandering Mausoleum`:
+        > The mausoleum prowls. Cradling the soulless demigod. O Marika, Queen Eternal. He is your unwanted child. 
+    - Melina interacts while resting here:
+        > Spoken echoes linger here. Words of Queen Marika, who vanished long ago. If you wish, I will share them with you. In Marika's own words.     Then, after thy death, I will give back what I once claimed. Return to the Lands Between, wage war, and brandish the Elden Ring. Grow strong in the face of death. Warriors of my lord. Lord Godfrey.
+- `Minor Erdtree`
+    - An `Erdtree Avatar` is protecting it, as well as various minor guardians, but there doesn't seem to be anything of note near the tree.
+- `Wandering Mausoleum`
+    - I duplicated the *Remembrance of the Grafted*
+- `Tower of Return`
+    - I was transported to the `Divine Bridge` of `Lendyll, Royal Capital` and defeated the giant that was waiting at the end of the bridge.
+    - There is a transporter, assumedly for the nearby *Divine Tower*, but I cannot use it right now.
+    - Picked up the *Blessed Dew Talisman*, which slowly restores HP
+- `Witchbane Ruins`
+    - `Sorceress Sellen` is held prisoner inside 
+- `Edgar`, the warden of `Castle Morne` and `Irina's` father, said that he cannot leave the castle until he has fulfilled his duty
+    > The menials have all rebelled. They gave me good service, or so I thought, but it seems it was all an act. Foul creatures, as it's said.
+    > I see, from Irina... Thank you. I'm in your debt. But I can't leave yet. Even if the castle should fall, as commander, I must remain. To ensure the treasured sword of Morne does not fall into the wrong hands. If you see Irina, do tell her. That her father will come for her, once he's fulfilled his duty.
+    - Upon finding Irina's body, he vows to hunt down the monster who killed her.
+- `Leonine Misbegotten` was found and slain at the southern peninsula beyond `Castle Morne`
+    - Dropped *Grafted Blade Greatsword*
+
+### ?
+
+- `D, Hunter of the Dead`, located east of `Saintsbridge`
+    - Warns me against going to `Summonwater Village`
+    > I hunt down Those Who Live in Death, and weed their Deathroot. Heed my warning. Those Who Live in Death should be left well alone.
+- `Kenneth Haight`
+    > You might have heard of me. Kenneth Haight. Next in line as the rightful ruler of Limgrave".
+    - Asks me to take back his fort, to the south of `Mistwood`, from a Knight commander who overtook it
+    > I would take great care to avoid Godrick's Tarnished hunts, were I in your shoes. That depraved lot are obsessed with sacrificing Tarnished like you for the sake of "grafting."
+    > Honestly, `Godrick’s` no more than a jumped up country bumpkin. Lord? Don’t make me laugh. First he hid himself amongst the womenfolk to flee the capital, then hid from `Radahn` in that castle… Then he insulted `Malenia`, lost to her in battle, only to lick her boots rather than die like a man.
 
 ## Other
 
 ### Shitlist
 
-- `Ulcerated Tree Spirit`, located within the `Fringefolk Hero's Grave` (accessed through `Stranded Graveyard`)
-    - **Can probably kill this now**
 - `Crucible Knight` at `Stormhill Evergaol`
 - `Bell Bearing Hunter`, who appears in `Warmaster's Shack` at night
 
@@ -195,12 +239,10 @@ tags: [play, games]
 - Find out what the *Golden Order* is...
     > Great Elden Ring, root of the Golden Order
 - Obtain *Gold Sewing Needle* to alter certain *armor* pieces
-- Buy or find a *Sacred Seal* in order to case incantations
-    - Increase *Faith* to 15 so that I can use *Dragonfire* incantation
-- Collect *Exile* armor set, specifically the gauntlets and greaves
+- Use a *Rune Arc* to equip a *Great Rune* and boost my stats until death
 - Use *Gold-Pickled Fowl Foot* to clear `Limgrave` and `Stormveil Castle` and collect lots of runes
-- Increase *Strength* to 18 so that I can effectively use *Bloodhound's Fang*
-- Talk to `Sorcerer Rogier` in `Roundtable Hold`
-- Find a `Wandering Mausoleum` to duplicate *Remembrance of the Grafted*
-- Collect *Stonesword Key* to access room in basemenet of `Roundtable Hold`
 - Find the location described by the *Knifeprint Clue*, given by `Fia`
+- Increase *Dexterity* to 24 in order to use *Knightrider Flail*
+- Collect *Stonesword Keys* 
+    - (2) for the room in the basement of `Roundtable Hold`
+    - (1) for `Weeping Evergaol` in `Weeping Peninsula`
