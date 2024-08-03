@@ -5,7 +5,9 @@ tags: [eat, cookbook, recipes]
 
 # Creation Cookbook
 
-I have registered `creationcookbook.com` so that I can share vegetarian (and vegan) recipes, as well as allergen-friendly cooking tips. The site is not active right now, but I hope to migrate posts there in the near future, with a new color scheme and layout.
+_Additional notes in repository [README](https://github.com/blakejacobus/creationcookbook.com)_
+
+I registered `creationcookbook.com` so that I can share vegetarian (and vegan) recipes, as well as allergen-friendly cooking tips. The site is not active right now, but I hope to migrate posts there in the near future, with a new color scheme and layout.
 
 ## Interim Posts
 
@@ -27,7 +29,9 @@ Until the site is live, recipes will be indexed alphabetically as blog posts her
 - [Gnocchi & Veggies](./gnocchi-and-veggies)
 - [Jambalaya](./jambalaya)
 - [Lentil Sloppy Joe's](./lentil-sloppy-joes)
+- [Minestrone Soup](./minestrone-soup)
 - [Pasta e Fagioli Soup](./pasta-e-fagioli-soup)
+- [Peanut Lo Mein](./peanut-lo-mein)
 - [Stuffed Pepper Soup](./stuffed-pepper-soup)
 - [Sweet Heat Grilled Cheese](./sweet-heat-grilled-cheese)
 - [Sweet Potato Sheet Pan Meal](./sweet-potato-sheet-pan-meal)
@@ -46,5 +50,11 @@ Until the site is live, recipes will be indexed alphabetically as blog posts her
 - In progress...
 
 ### Drinks
+
+- In progress...
+
+### Substitutes
+
+This is a lost of common substitutions for different dietary restrictions. Once finalized, these pages will be linked to in recipes rather than listing out substitutions in each recipe.
 
 - In progress...
