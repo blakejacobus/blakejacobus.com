@@ -159,6 +159,14 @@ tags: [play, games]
     - Defeated a knight and obtained *Dragon Communion Seal*, which boosts my Dragon Communion incantations
     - Dropped a pot on the *Chariot* and obtained the *Erdtree Greatbow*
     - I hate this dungeon so much
+- `D, Hunter of the Dead`, located east of `Saintsbridge`
+    - Warns me against going to `Summonwater Village`
+    > I hunt down Those Who Live in Death, and weed their Deathroot. Heed my warning. Those Who Live in Death should be left well alone.
+- `Kenneth Haight`
+    > You might have heard of me. Kenneth Haight. Next in line as the rightful ruler of Limgrave".
+    - Asks me to take back his fort, to the south of `Mistwood`, from a Knight commander who overtook it
+    > I would take great care to avoid Godrick's Tarnished hunts, were I in your shoes. That depraved lot are obsessed with sacrificing Tarnished like you for the sake of "grafting."
+    > Honestly, `Godrick’s` no more than a jumped up country bumpkin. Lord? Don’t make me laugh. First he hid himself amongst the womenfolk to flee the capital, then hid from `Radahn` in that castle… Then he insulted `Malenia`, lost to her in battle, only to lick her boots rather than die like a man.
 
 #### Stormveil Castle
 
@@ -213,19 +221,37 @@ tags: [play, games]
     > The menials have all rebelled. They gave me good service, or so I thought, but it seems it was all an act. Foul creatures, as it's said.
     > I see, from Irina... Thank you. I'm in your debt. But I can't leave yet. Even if the castle should fall, as commander, I must remain. To ensure the treasured sword of Morne does not fall into the wrong hands. If you see Irina, do tell her. That her father will come for her, once he's fulfilled his duty.
     - Upon finding Irina's body, he vows to hunt down the monster who killed her.
+    - Attacked me in Liurnia of the Lakes (Edgar the Revenger)
 - `Leonine Misbegotten` was found and slain at the southern peninsula beyond `Castle Morne`
     - Dropped *Grafted Blade Greatsword*
 
-### ?
+### Liurnia of the Lakes
 
-- `D, Hunter of the Dead`, located east of `Saintsbridge`
-    - Warns me against going to `Summonwater Village`
-    > I hunt down Those Who Live in Death, and weed their Deathroot. Heed my warning. Those Who Live in Death should be left well alone.
-- `Kenneth Haight`
-    > You might have heard of me. Kenneth Haight. Next in line as the rightful ruler of Limgrave".
-    - Asks me to take back his fort, to the south of `Mistwood`, from a Knight commander who overtook it
-    > I would take great care to avoid Godrick's Tarnished hunts, were I in your shoes. That depraved lot are obsessed with sacrificing Tarnished like you for the sake of "grafting."
-    > Honestly, `Godrick’s` no more than a jumped up country bumpkin. Lord? Don’t make me laugh. First he hid himself amongst the womenfolk to flee the capital, then hid from `Radahn` in that castle… Then he insulted `Malenia`, lost to her in battle, only to lick her boots rather than die like a man.
+- `Rya the Scout` asked me to help her retrieve a stolen necklace
+    > It's rather chilly here, isn't it? My mistress sent me off on an errand...But I was accosted by a ruffian, and now I'm in a bind. Could I ask you to lend a hand, perhaps? That thug made off with a precious necklace. I need someone to retrieve it. Only... He, too, is **Tarnished**. If you've any qualms confronting your own, I shall find another...
+    - I retrieved her necklace from the thug by buying it back,, and she gave me *Volcano Manor Invitation*.
+    > I am Rya, in the service of Lady Tanith of the Volcano Manor.
+    > You are very brave yourself. Not only a steady hand, but a steady heart, merciless, even to your own kind. Such strength is precisely what my mistress seeks.
+    > Brave Tarnished, seek the `Altus Plateau`, the realm of the **Erdtree**...the Volcano Manor will fully extend its invitation. To fight, amongst a family of champions.
+    > This land of Liurnia is connected to the `Altus Plateau` by the *Grand Lift of Dectus*, beyond the `High Road`. But the lift has been defunct for an age, meaning there's no simple means of passage. Instead, you must seek the old ruins in the cliff. At the base of the valley near the Grand Lift, there's an old tunnel. It was excavated from both ends, linking `Liurnia` to the `Altus Plateau`.
+- `Patches` in the middle of the lake, who gave me a tip on reaching the **Erdtree**
+    > There's a surviving *Iron Virgin* at the bottom of the big waterwheel in the `Academy of Raya Lucaria`. And I heard...if you let yourself get caught in it, it'll chuck you out straight at the base of the **Erdtree**.
+- Discovered the `Village of the Albinaurics` and a sole survivor: `Albus`, disguised as a pot, who asks me to protect an item: **Haligtree Secret Medallion (Right)**
+    > Wait, then, you're not one of them? Well, what a relief... Oh, goodness me. I am Albus. An Albinauric, as you can see. We are finished. The whole village is finished. The cursemongers have destroyed everything. Not one that remains has their wits about them I beg you. Would you look after this medallion? You must keep it out of the cursemonger's hands. And if you should meet the young Albinauric `Latenna`, then please, give it to her. A chosen land awaits us Albinaurics. The medallion is the key that leads to the city. It's only a quaint treasure, for we who cannot make the journey. But for dear `Latenna`, it is needed. To fulfill her purpose.
+- `Edgar` (the Revenger), the warden of `Castle Morne`, whose daughter (`Irina`) was killed in the `Weeping Peninsula` attacked me
+    > ...Ahh the poor fellow... Gone perfectly mad. Love... Revenge....the frenzied flame melts it all away...
+- `Latenna`, located outside `Lakeside Crystal Cave`, near the `Slumbering Wolf's Shack` offered to follow me in her effort to collect the **Haligtree Secret Medallion** halves.
+    - I gave her the medallion provided by `Albus`, which earned her trust.
+    > Would you consider doing me a great service? I must go back. There is something that I must do, even if I must say farewell to my wolf, `Lobo`. Will you show me the way? To the land of *Miquella's Haligtree*.
+    > They say the other half of the medallion is beyond the forbidden lands north of the **Erdtree**. In `Castle Sol`, on the `Mountaintops of the Giants`, accessible by the *Grand Lift of Rold*. 
+    - I can call on her spirit, as needed.
+- `Diallos`, near `Academy Gate Town` was grieving over the body of his servant, `Lanya`
+    > Hello, friend. Tell me if you know, would you. The whereabouts of the hidden house of those despicable fiends. The recusants who hunt their fellow Tarnished.
+    > "The tale of House Hoslow is told in blood." I, Diallos, swear to deliver the message.
+    > The location of the recusant hideout. It's on Mt. Gelmir, found off the old road that leads west from the town of windmills. That's where they hide. The manor on the peak.
+    - He seems to be referring to `Rya` and `Lady Tanith` of `Volcano Manor`
+- `Glintstone Dragon Smarag` was defeated, dropping a *dragon heart* for use at the `Cathedral of Dragon Communion`
+- `The Four Belfries` are waygates to other locations in the game, unlocked with *Imbued Sword Keys*
 
 ## Other
 
@@ -233,15 +259,20 @@ tags: [play, games]
 
 - `Crucible Knight` at `Stormhill Evergaol`
 - `Bell Bearing Hunter`, who appears in `Warmaster's Shack` at night
+- `Deathbird`, found at night near the `Scenic Isle` of `Liurnia of the Lakes`
+
+### Questlines
+
+- Take `Latenna` to *Miquella's Haligtree* in `Castle Sol`, on the `Mountaintops of the Giants`, accessible by the *Grand Lift of Rold*
+- Find the location described by the *Knifeprint Clue*, given by `Fia`
+- Obtain *Gold Sewing Needle* that allows `Boc` to alter certain *armor* pieces
 
 ### Miscellaneous
 
 - Find out what the *Golden Order* is...
     > Great Elden Ring, root of the Golden Order
-- Obtain *Gold Sewing Needle* to alter certain *armor* pieces
 - Use a *Rune Arc* to equip a *Great Rune* and boost my stats until death
-- Use *Gold-Pickled Fowl Foot* to clear `Limgrave` and `Stormveil Castle` and collect lots of runes
-- Find the location described by the *Knifeprint Clue*, given by `Fia`
+- Use *Gold-Pickled Fowl Foot* to boost rune collection
 - Increase *Dexterity* to 24 in order to use *Knightrider Flail*
 - Collect *Stonesword Keys* 
     - (2) for the room in the basement of `Roundtable Hold`
