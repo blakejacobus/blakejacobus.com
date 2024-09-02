@@ -3,7 +3,7 @@ layout: post
 tags: [eat, recipe]
 ---
 
-# Title
+# Peanut Lo Mein
 
 ## Ingredients
 
