@@ -24,7 +24,7 @@ old_project_entries:
 
   - title: Creation Cookbook
     url: creation-cookbook
-    desc: Vegetarian recipes <br> 🚧 <i> Under construction </i>
+    desc: <img src="assets/images/favicon/cc_tree.svg" style="width:25%;">
 
   - title: Corn Dog Day
     url: corn-dog-day
