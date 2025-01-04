@@ -70,7 +70,7 @@ tags: [play, games]
 - *Smithing Stone* reinforces *armaments*
 - *Tailoring Tools* enables *armor* alterations
 
-## Journey 
+## Journey
 
 ### Roundtable Hold
 
@@ -90,6 +90,8 @@ tags: [play, games]
             > Her beloved, `Radagon`, left her to become `Queen Marika's` second husband, taking the title of *King Consort*. The **Great Rune** dwells within the *amber egg* that was `Radagon's` gift to her.
 - `Roderika`, referred to as `Heartbroken Maiden` (inside `Stormhill Shack`) made her way here
     - She has taken up an apprenticeship with `Hewg`, learning about *spirit tuning*
+    - Later on, she warned me about an evil presence in the hold:
+        > A little while ago someone started lurking in the wing on the opposite side of the roundtable. And I can hear, from all the way over there...The howling and wailing of spirits in fear of a curse. I can ever hear the repulsive, twisted malison itself...A plethora of spirits in an unceasing cacophony...I can't even imagine. How much suffering, inflicted to who knows how many souls...You should keep your distance, I know you're strong, but please.
 - `Diallos`
     > Asks about a woman named `Lanya`, his servant, and asks me to let him know if I find her
 - `Smithing Master Hewg`
@@ -101,6 +103,10 @@ tags: [play, games]
     - Provides *Balchadin's Blessing* in exchange for a hug
     > My dear... Have you ever heard of black knifeprints? Dear Rogier likes to talk of it when abed. The ancient plot, in which the first of the Demigods was slain. The black knifes wielded by the assassins who committed the act, along with the impressions they made, somehow hide the truth of the conspiracy. These grand affairs are hardly my forté...But dear Rogier began to weep as he spoke...In truth I've heard tell from someone else, about the black knifeprints that fascinate dear Rogier so.
     - Gave me *Knifeprint Clue*, a simple map showing the location of a *black knifeprint*
+    - Also asked me to find the owner of a *Weathered Dagger*, which turned out to be `D, Hunter of the Dead`
+        - After giving `D` the dagger, he's later found next to `Fia`, dead
+        > "Finally, it is returned to its rightful place. The stolen hallowbrand, of the exalted noble. And now, I must bid you goodbye as well. Though I ask you deliver this message to the Roundtable Hold. I am Fia, Deathbed Companion. Hark, Roundtable. Disturb not the Death of Godwyn, the exalted. We, who humbly live in Death...Live in waiting, to one day welcome our Lord. What right does anyone have to object? Our Lord will rise. The Lord of the many, and the meek."
+    - She disappears from `Roundtable Hold`
 - `Enia, the Finger Reader`
     > I interpret the words of the Fingers, envoys to the Greater Will.
     > Demigods, and even the greater of the champions, are hewn by the Erdtree upon their end, into remembrances.
@@ -110,6 +116,11 @@ tags: [play, games]
 - `Nepheli Loux` is the adopted daughter of `Gideon Ofnir`
 - `Sorcerer Rogier`
     > The misshapen corpse under Stormveil? That is a sacred relic. Of the black knives plot. It happened during the Golden Age of the Erdtree, long before the shattering of the Elden Ring. Someone stole a fragment of the Rune of Death from Maliketh, the Black Blade. And on a bitter night, murdered Godwyn the Golden. That was the first recorded Death of a demigod in all history. And it became the catalyst. Soon, the Elden Ring was smashed, and thus sprang forth the war known as the Shattering.
+    - I gave him the *Black Knifeprint* for analysis:
+        > Now, I have a fairly good idea who performed the rite upon the blade. The person who orchestrated the Night of the Black Knives. Lunar Princess Ranni. One of the children born to King Consort Radagon and his first wife, Rennala. Demigod and sister to General Radahn and Praetor Rykard. Her's was the name I discovered in the imprint. Truly, you have my thanks. But, if I might be so bold, I would also like to ask something more of you. If Ranni truly is the one who plotted that fateful night, then she should bear the cursemark of Destined Death somewhere upon her flesh. I would like you to procure it for me. And then all will be laid bare. I will have the answers I have sought for so long.
+    - When asked about why he pursues `Ranni's` cursemark, he explained:
+        > I'm afraid there's something I must tell you. Do you know of Those Who Live in Death? The very notion of life in death defies the Golden Order. By D's account, these defiled fiends must be expunged. But truth be told, I seek the cursemark to save them. You may find this peculiar, but I discovered something in my examination of the Night of the Black Knives. These souls have committed no offence. They have every right to life, only, they happened to touch upon a flaw in the Order.
+
 
 ### Limgrave
 
@@ -133,6 +144,8 @@ tags: [play, games]
 - `Bloody Finger Hunter Yura` chastised me about challenging `Flying Dragon Agheel` but also aided me in the fight against `Bloody Finger Nerijus`
     > I am Yura, as you might recall, hunter of Bloody Fingers. Tarnished held in thrall by cessblood. Zealots who stalk their own. <br>
     > Just remember, no kinship with their ilk remains. Their madness precludes it.
+- `Blaidd`, discovered atop the tower of `Mistwood Ruins` came down to greet me.
+    > Kalé sent you, did he? Ever the bloody busybody. Hmm. Maybe to him, you don't seem so strange. The name's Blaidd. I'm looking for a man who goes by "Darriwil."
 - `Patches the Untethered`, a **Tarnished**, attacked me in `Murkwater Cave` and then surrendered, offering to sell me goods in the future.
     - Items of note: *Margit's Shackle* and *Stonesword Key*, both 5,000 runes
 - `Finger Reader Crone`, east of `Castle Stormveil`, read my fingers...
@@ -252,28 +265,72 @@ tags: [play, games]
     - He seems to be referring to `Rya` and `Lady Tanith` of `Volcano Manor`
 - `Glintstone Dragon Smarag` was defeated, dropping a *dragon heart* for use at the `Cathedral of Dragon Communion`
 - `The Four Belfries` are waygates to other locations in the game, unlocked with *Imbued Sword Keys*
+- Found *Gold Sewing Needle* in `Church of Vows` that allows `Boc` to alter certain *armor* pieces
+- In the `Carian Study Hall`, located a pedestal lacking an object of some sort
+    - Inside, a spirit referenced the "transgressions of the princess"
+- Found `Blackknife Catacombs`, the place `Fia` and `Rogier` mentioned
+    - Inside was *Rosus's Axe*, the "Usher of Death" that points to the catacombs across the **Lands Between**
+    - Also found the *Black Knifeprint* requested by Rogier
+- `Converted Fringe Tower`, a message and a puzzle:
+    > May erudition light the way!"
+    - You must solve the puzzle to enter
+- Met `Ranni the Witch` in `Ranni's Rise, Three Sisters`
+    > I believe I said my name was Renna, when last we met.
+    > I am the witch Ranni. I stole Death long ago, and search now for the dark path. That I might one day upend the whole of it, and rid the world of all that came before.
+    - She had previously introduced herself as `Renna` in `Limgrave`
+    - I agreed to enter into her service, along with `Blaidd`, `Iji`, and `Seluvis`, to recover hidden treasure of `Nokron, the Eternal City`.
+- `Iji`, war counsellor for `Ranni`, greeted me at the bottom of her tower.
+    > I am Iji. A blacksmith who once served the Carian royals. An old codger who refuses to retire his rusty hammer. So, here I am, still quietly plying my trade, on this spot.
+- `Blaidd`, who I met before in `Mistwood` told me that he was looking for the road to `Nokron` beneath `Limgrave`
+    > I’m still in Limgrave. The eternal city of Nokron lies somewhere at the bottom of this land. I’m planning to go below through the well in the Mistwood. See if I can’t find the road to Nokron from there…
+- `Seluvis`, an officious prick, and the third partner in `Ranni's` service, was last to greet me as I left her tower.
+    > I don't know what it is the mistress sees in a provincial Tarnished like you, but since we have the misfortune of serving the same Lady, I ask that you kindly try not to drag us all down with you.
+    > I reside...in another tower, close by. Come and pay me a visit...Should you wish to be of actual service to Mistress Ranni.
+    - He asked me to find a woman named `Nepheli` and give her a potion
+
+### Sofria River
+
+- I took `Sofria River Well` downward in search of `eternal city of Nokron` with `Blaidd`
+- Lit a torch near the river bank
+    - Found several others, and they seem to correspond with torches on a stairwell near the riverbank site of **Grace**
+    - Took a portal that led northeast, connecting to the riverbank, where a dragon kin dwells within a small lake
+    - Killed the dragon kin and lot all the torches
+        > Power gathers somewhere in horned remains
+        - Went to `Hallowhorn Ground` and defeated `Ancestor Spirit`
+- Found `Blaidd`, who said he'd exhausted all paths he could find to `Nekron`, floating above us, and said `Seluvis` might know a path forward if we can't find out way
+    - `Seluvis` told me to go talk to `Sellen`, who provided guidance on how to reach Nekron
+        > If `General Radahn` were to die, the stars would resume their movement. And so, too, would Ranni's destiny.
+
+### Caelid
+
+- Returned here in search of `General Radahn`, looking for the festival that `Alexander` mentioned
+    - `Gideon` said that he fought `Melania` and her "rot" in `Caelid` and is likely still there, though he may not look like his former self...
 
 ## Other
 
 ### Shitlist
 
-- `Crucible Knight` at `Stormhill Evergaol`
 - `Bell Bearing Hunter`, who appears in `Warmaster's Shack` at night
 - `Deathbird`, found at night near the `Scenic Isle` of `Liurnia of the Lakes`
+- `Putrid Avatar`, northeast of the `Smoldering Church` in `Caelid`
+    - Need a way to stave off *Scarlet Rot*
 
 ### Questlines
 
-- Take `Latenna` to *Miquella's Haligtree* in `Castle Sol`, on the `Mountaintops of the Giants`, accessible by the *Grand Lift of Rold*
-- Find the location described by the *Knifeprint Clue*, given by `Fia`
-- Obtain *Gold Sewing Needle* that allows `Boc` to alter certain *armor* pieces
+- `Boc`: Give him the *Golden Sewing Needle* (tried - fucker won't take it).
+- `Latenna`: Take her to *Miquella's Haligtree* in `Castle Sol`, on the `Mountaintops of the Giants`, accessible by the *Grand Lift of Rold*.
+- `Ranni`: Recover hidden treasure of `Nokron, the Eternal City` with `Blaidd`.
+- `Seluvis`: Give his potion to `Nepheli`.
+    - ...or give it to `Gideon`, who believes that `Seluvis` is a piece of shit and that `Nepheli` (his daughter) isn't herself
+    - Maybe wait until `Ranni's` quest is complete before betraying `Seluvis`?
 
 ### Miscellaneous
 
 - Find out what the *Golden Order* is...
     > Great Elden Ring, root of the Golden Order
-- Use a *Rune Arc* to equip a *Great Rune* and boost my stats until death
 - Use *Gold-Pickled Fowl Foot* to boost rune collection
-- Increase *Dexterity* to 24 in order to use *Knightrider Flail*
 - Collect *Stonesword Keys* 
     - (2) for the room in the basement of `Roundtable Hold`
     - (1) for `Weeping Evergaol` in `Weeping Peninsula`
+- Solve the puzzle of the `Converted Fringe Tower`
+- Return to `Mausoleum Compound` in `Liurnia of the Lakes` to duplicate Remembrances
