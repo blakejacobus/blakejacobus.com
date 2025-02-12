@@ -10,7 +10,7 @@ project_entries:
 
   - title: Work
     url: work
-    desc: Fitness & Technology
+    desc: Technology & Fitness
 
   - title: Play
     url: play
@@ -28,37 +28,37 @@ old_project_entries:
 
   - title: Corn Dog Day
     url: corn-dog-day
-    desc: A national pasttime <br> ⏰ <i> Future project </i>
+    desc: A national pasttime <br> 🔨 <i> Future project </i>
 
   - title: Particle Patrol
     url: particle-patrol
-    desc: Curated AQI report <br> ⏰ <i> Future project </i>
+    desc: Curated AQI report <br> 🔨 <i> Future project </i>
 
 misc_entries:
 
   - title: Radar
     url: radar
-    desc: Future game releases
+    desc: Anticipated games
 
   - title: Reviews
     url: reviews
-    desc: Thoughts on games played
+    desc: Played games
+
+  - title: Programs
+    url: programs
+    desc: Training routines
+
+  - title: Research
+    url: research
+    desc: Wellness findings
 
   - title: Playlists
     url: playlists
     desc: Curated music
 
-  - title: Programs
-    url: programs
-    desc: Training regimens
-
   - title: Recordings
     url: recordings
-    desc: Audio productions
-
-  - title: Research
-    url: research
-    desc: Wellness studies and reports
+    desc: Personal productions
 
 footer_entries:
 
