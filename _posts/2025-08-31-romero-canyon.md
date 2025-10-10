@@ -15,7 +15,7 @@
 
 > To continue to Romero Pass, the trail climbs up another 4.4 mi/7.1 km to Romero Pass at an elevation of 6,000 ft/1,829 m. The Romero Canyon Trail ends at Romero Pass, where it intersects with the Mt. Lemmon Trail (additional 5.9 mi/9.5 km to Mt. Lemmon summit) and West Fork Sabino Trail (additional 13.3 mi/21.4 km to Sabino Canyon parking lot). From the Trailhead to Romero Pass is 7.2 mi/11.6 km with an elevation gain of 3,300 ft/1,000 m and about 10 hours round-trip. The trail is normally unmaintained beyond Romero Pools. Please bring a map, compass, or GPS device to go to Romero Pass to avoid getting lost. Winter (Dec. - Mar.) and summer monsoon rains (Jun. - Sep.) may create seasonal water crossings on the trail.
 
-![](./assets/csp_romero.png)
+![](../assets/images/csp_romero.png)
 
 ### Navigation
 
