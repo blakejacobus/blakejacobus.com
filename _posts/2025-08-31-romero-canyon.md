@@ -53,8 +53,8 @@ We will have (1) two-person tent, (1) single-person tent, and at least one hammo
 
 ## Supplies
 
-<!-- TODO: Packing list
+TODO:
+
 - Need to research water filtration options: https://www.sawyer.com/category/water-filtration
 - Need to address basic survival needs (food, water, shelter)
 - Need to research fire options
--->
