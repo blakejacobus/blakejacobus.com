@@ -37,24 +37,30 @@
 
 ### Considerations
 
-Hiking to Romero Pools in temperatures above 95°F/35°C is dangerous and may result in heat-related illnesses that can be fatal in some cases. Bring at least 4-liters of water per person to stay hydrated. There is little to no shade on this trail, so please wear sunscreen and cover your skin. We recommend you start the hike before 6:00 AM from May through October.
+From [Catalina State Park / Trails](https://azstateparks.com/catalina/things-to-do/trails):
+
+> Hiking to Romero Pools in temperatures above 95°F/35°C is dangerous and may result in heat-related illnesses that can be fatal in some cases. Bring at least 4-liters of water per person to stay hydrated. There is little to no shade on this trail, so please wear sunscreen and cover your skin. We recommend you start the hike before 6:00 AM from May through October.
 
 ### Restrictions
 
-Dogs and bicycles are not allowed in the Bighorn Sheep Management Area/Pusch Ridge Wilderness (includes Romero Pools and Montrose Pools) which begins at the Forest Service gate about 1.0 mi/1.6 km east on the Romero Canyon Trail from the Trailhead. 
+### Fire
 
-From January 1st to April 30th, traveling more than 400 ft/122 m off Forest Service system trails is prohibited due to the bighorn sheep lambing season. Horses are not recommended past the Montrose Pools overlook due to narrowly laid stairs and tight passages between rocks. More Information on Pusch Ridge Wilderness.
+Catalina State Park (Arizona) allows charcoal fires, firelogs, and propane in its campground fire rings, but prohibits wood-burning fires at all times. Camping regulations are documented [here](https://azstateparks.com/catalina/camping-and-rvs/rv-and-tent-camping).
+
+Coronado National Forest fire restrictions and other alerts are monitored [here](https://www.fs.usda.gov/r03/coronado/alerts).
+
+### Other
+
+From [Catalina State Park / Trails](https://azstateparks.com/catalina/things-to-do/trails):
+
+> Dogs and bicycles are not allowed in the Bighorn Sheep Management Area/Pusch Ridge Wilderness (includes Romero Pools and Montrose Pools) which begins at the Forest Service gate about 1.0 mi/1.6 km east on the Romero Canyon Trail from the Trailhead. 
+
+> From January 1st to April 30th, traveling more than 400 ft/122 m off Forest Service system trails is prohibited due to the bighorn sheep lambing season. Horses are not recommended past the Montrose Pools overlook due to narrowly laid stairs and tight passages between rocks. More Information on Pusch Ridge Wilderness.
 
 ## Camping
 
-Spoke with a Park Ranger on 09/21/2025. Barring [Bighorn Sheep restrictions](#restrictions), we can camp wherever.
-
-We will have (1) two-person tent, (1) single-person tent, and at least one hammock. Depending on temperature, we need to add a tarp below both tents and above/below the hammock.
+I spoke with a Park Ranger on 09/21/2025. Barring [Bighorn Sheep restrictions](#restrictions), we can camp wherever.
 
 ## Supplies
 
-TODO:
-
-- Need to research water filtration options: https://www.sawyer.com/category/water-filtration
-- Need to address basic survival needs (food, water, shelter)
-- Need to research fire options
+[Google Sheets](https://docs.google.com/spreadsheets/d/1Hb3K4wFChySTPlnPp3iCVQdayy30XoETKk0Vs05x3d0/edit?usp=sharing)
