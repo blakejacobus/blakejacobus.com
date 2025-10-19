@@ -11,9 +11,9 @@
 
 [Romero Canyon Trail](https://azstateparks.com/catalina/things-to-do/trails)
 
-> The Romero Canyon Trail leads to epic destinations like the refreshing waters of Romero Pools. Start from the Main Trailhead parking lot where you’ll cross Sutherland Wash and head northeast for 1.0 mi/1.6 km on an easy walk to the Montrose Pools overlook. Montrose Pools are a series of seasonal pools and waterfalls found throughout Montrose Canyon. The next 1.8 mi/2.9 km of the trail to Romero Pools are difficult. Prepare for a steep, uphill climb through the Pusch Ridge Wilderness on rocky, uneven terrain with 1,000 ft/305 m elevation gain. Seasonal pools and waterfalls can be found throughout Romero Canyon once you reach the creek crossing 2.8 mi/4.5 km east on the trail. Picnicking, water play, and backpacking are all popular activities in the Romero Pools area. Plan on at least 5.6 mi/9.0 km and 4 hours of hiking round-trip from the Main Trailhead to Romero Pools.
+_"The Romero Canyon Trail leads to epic destinations like the refreshing waters of Romero Pools. Start from the Main Trailhead parking lot where you’ll cross Sutherland Wash and head northeast for 1.0 mi/1.6 km on an easy walk to the Montrose Pools overlook. Montrose Pools are a series of seasonal pools and waterfalls found throughout Montrose Canyon. The next 1.8 mi/2.9 km of the trail to Romero Pools are difficult. Prepare for a steep, uphill climb through the Pusch Ridge Wilderness on rocky, uneven terrain with 1,000 ft/305 m elevation gain. Seasonal pools and waterfalls can be found throughout Romero Canyon once you reach the creek crossing 2.8 mi/4.5 km east on the trail. Picnicking, water play, and backpacking are all popular activities in the Romero Pools area. Plan on at least 5.6 mi/9.0 km and 4 hours of hiking round-trip from the Main Trailhead to Romero Pools."_
 
-> To continue to Romero Pass, the trail climbs up another 4.4 mi/7.1 km to Romero Pass at an elevation of 6,000 ft/1,829 m. The Romero Canyon Trail ends at Romero Pass, where it intersects with the Mt. Lemmon Trail (additional 5.9 mi/9.5 km to Mt. Lemmon summit) and West Fork Sabino Trail (additional 13.3 mi/21.4 km to Sabino Canyon parking lot). From the Trailhead to Romero Pass is 7.2 mi/11.6 km with an elevation gain of 3,300 ft/1,000 m and about 10 hours round-trip. The trail is normally unmaintained beyond Romero Pools. Please bring a map, compass, or GPS device to go to Romero Pass to avoid getting lost. Winter (Dec. - Mar.) and summer monsoon rains (Jun. - Sep.) may create seasonal water crossings on the trail.
+_"To continue to Romero Pass, the trail climbs up another 4.4 mi/7.1 km to Romero Pass at an elevation of 6,000 ft/1,829 m. The Romero Canyon Trail ends at Romero Pass, where it intersects with the Mt. Lemmon Trail (additional 5.9 mi/9.5 km to Mt. Lemmon summit) and West Fork Sabino Trail (additional 13.3 mi/21.4 km to Sabino Canyon parking lot). From the Trailhead to Romero Pass is 7.2 mi/11.6 km with an elevation gain of 3,300 ft/1,000 m and about 10 hours round-trip. The trail is normally unmaintained beyond Romero Pools. Please bring a map, compass, or GPS device to go to Romero Pass to avoid getting lost. Winter (Dec. - Mar.) and summer monsoon rains (Jun. - Sep.) may create seasonal water crossings on the trail."_
 
 ![](../assets/images/csp_romero.png)
 
@@ -39,7 +39,7 @@
 
 From [Catalina State Park / Trails](https://azstateparks.com/catalina/things-to-do/trails):
 
-> Hiking to Romero Pools in temperatures above 95°F/35°C is dangerous and may result in heat-related illnesses that can be fatal in some cases. Bring at least 4-liters of water per person to stay hydrated. There is little to no shade on this trail, so please wear sunscreen and cover your skin. We recommend you start the hike before 6:00 AM from May through October.
+_"Hiking to Romero Pools in temperatures above 95°F/35°C is dangerous and may result in heat-related illnesses that can be fatal in some cases. Bring at least 4-liters of water per person to stay hydrated. There is little to no shade on this trail, so please wear sunscreen and cover your skin. We recommend you start the hike before 6:00 AM from May through October."_
 
 ### Restrictions
 
@@ -53,9 +53,9 @@ Coronado National Forest fire restrictions and other alerts are monitored [here]
 
 From [Catalina State Park / Trails](https://azstateparks.com/catalina/things-to-do/trails):
 
-> Dogs and bicycles are not allowed in the Bighorn Sheep Management Area/Pusch Ridge Wilderness (includes Romero Pools and Montrose Pools) which begins at the Forest Service gate about 1.0 mi/1.6 km east on the Romero Canyon Trail from the Trailhead. 
+_"Dogs and bicycles are not allowed in the Bighorn Sheep Management Area/Pusch Ridge Wilderness (includes Romero Pools and Montrose Pools) which begins at the Forest Service gate about 1.0 mi/1.6 km east on the Romero Canyon Trail from the Trailhead."_
 
-> From January 1st to April 30th, traveling more than 400 ft/122 m off Forest Service system trails is prohibited due to the bighorn sheep lambing season. Horses are not recommended past the Montrose Pools overlook due to narrowly laid stairs and tight passages between rocks. More Information on Pusch Ridge Wilderness.
+_"From January 1st to April 30th, traveling more than 400 ft/122 m off Forest Service system trails is prohibited due to the bighorn sheep lambing season. Horses are not recommended past the Montrose Pools overlook due to narrowly laid stairs and tight passages between rocks. More Information on Pusch Ridge Wilderness."_
 
 ## Camping
 
