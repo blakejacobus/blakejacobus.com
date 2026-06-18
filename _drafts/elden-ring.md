@@ -58,7 +58,7 @@ Key:
 | Endurance     | 25        | 30        ||
 | Strength      | 18        | 20        ||
 | Dexterity     | 25        | 30        ||
-| Intelligence  | 15        | 17        |`Moonveil Katana` [23] - Use `Twinsage Glintstone Crown` to boost INT by 6|
+| Intelligence  | 15        | 17        |`Moonveil Katana` [23] |
 | Faith         | 10        | OK        || 
 | Arcane        | 16        | OK        ||
 
@@ -348,124 +348,135 @@ Key:
 - I was transported to *Volcano Manor* from the bottom of *Academy of Raya Lucaria*.
     - I have worked my way to the bottom, where there is a cave past some fire slimes with a hole that drops me down to fight some Iron Maidens.
     - I fast traveled back to Caelid for now...
+- Defeated `Perfumer` (many of them) and found perfume bottles, which I think I can make something out of...
+- Found `Raptor Talons` and `Raptor's Black Feathers` inside *Sage's Cave*, along with many other chests.
+    - Used by the `Assassins of Ravenmount`, mimicking the *Deathbird*.
+        > We are birds of prey, bringers of death. 
+    - Eventually battled the *Black Knife Assasin*
+        - Dropped the `Concealing Veil`, which I can use to disappear when crouching at a distance.
+    - Also fought *Necromancer Garris*
 
 ## Progression
 
 ### Quests
 
-- *Boc*
-    - Give him the `Golden Sewing Needle`.
-    - After defeating *Radahn* I spoke with *Finger Reader Enia* at the *Roundtable Hold* and collected his armor set.
-    - *Boc* recognized the armor and said he needs the golden needle to work on it; I gave him the needle:
-        > Are you certain that this is for me? Oh, I can hardly believe it. Have faith in me, Master! 
-        > I'll polish my craft enough that I deserve this golden gift! I'll be the golden seamster, *Boc*! Now I'll be able to sew anything, even the threads of the demigods!"
-    - Despite being able to sew demigod clothing now, he still feels that is not worthy of his mother's pride:
-        > That I'm as good as any royal seamster, now. Oh, it's still not enough. I need to learn how to sew from scratch, like her."
-- *Brother Corhyn*
-    - Investigating the **Golden Order**; offers incantations at *Roundtable Hold*
-    > I teach incantations, the strength granted us by the *Two Fingers*, and explore the secrets of the Golden Order.
-    > I've decided to leave the Roundtable Hold after all. As I mentioned, I'm off in search of the noble Goldmask.
-- *D, Hunter of the Dead*
-    - Found east of *Saintsbridge*; warns me against going to *Summonwater Village*
-        > I hunt down Those Who Live in Death, and weed their Deathroot. Heed my warning. Those Who Live in Death should be left well alone.
-    - He directed me to go to the *Bestial Sanctum* in *Caelid*.
-- *Diallos*
-    - Asks about a woman named *Lanya*, his servant, and asks me to let him know if I find her.
-        > She's a servant to my house. She's been my companion since childhood. I've lost count of the number of times I've had to find her like this. 
-        > Honestly, she's such a little tomboy.
-    - He's headed to *Volcano Manor* on *Mt. Gelmir*.
-        > The location of the recusant hideout. It's on *Mt. Gelmir*, found off the old road that leads west from the town of windmills. 
-        > That's where they hide. The manor on the peak. Just you wait, wretched recusants. You'll rue the day you insulted my name by laying hands on *Lanya*.
-        > "The tale of `House Hoslow` is told in blood" after all.
-- *Enia, the Finger Reader*
-    - Introduction of the *Two Fingers* and background on the **Elden Ring**:
-        > I interpret the words of the *Fingers*, envoys to the **Greater Will**.
-        > `Demigods`, and even the greater of the champions, are hewn by the **Erdtree** upon their end, into `remembrances`.
-        > These `remembrances` yet house the power of their former masters. And should you wish to wield that same power, well... I will lend you the strength of the *Fingers*.
-        > *Great Runes* are the stuff of `demigods`: the children of the goddess, *Queen Marika*. She who is vessel of the **Elden Ring**. 
-        > Tainted by the strength of their runes, her children warred, but none could become **Elden Lord**. And so grace was extended, to your kind, the **Tarnished**".
-    - Background on *Queen Marika*:
-        > *Queen Marika* is the vessel of the **Elden Ring**, carrier of its vision. A god, in truth. But after the **Elden Ring's** shattering, she was imprisoned in the **Erdtree**.
-        > A grim punishment for shattering the **Order**, despite her godhood. The *Fingers* speak...
-            > *Marika's* trespass demanded a heavy sentence. But even in shackles, she remains a god, and the vision's vessel.
-            > Confer **Great Runes** to become **Elden Lord**, and join *Queen Marika* as her `consort`. The *Fingers* have willed it so.
-    - After defeating *Radahn*:
-        > I had my doubts, but...my, look at you. Only once before have I seen two **Great Runes** together. Look there. The *Fingers* shudder with exuberance.
-        > Fine work, brave **Tarnished**. The **Greater Will** is pleased. You have earned the right to become E**lden Lord**. 
-        > Now, seek the **Erdtree**, and an audience with *Queen Marika*. To become **Elden Lord**, and restore the **Golden Order**.
-        > The *Fingers* expect... As much from you as they do young *Gideon*.
-- *Fia, Deathbed Companion*
-    > I was known as a Deathbed Companion, where I come from.
-    - Provides *Balchadin's Blessing* in exchange for a hug
-    > My dear... Have you ever heard of black knifeprints? Dear Rogier likes to talk of it when abed. The ancient plot, in which the first of the Demigods was slain. The black knifes wielded by the assassins who committed the act, along with the impressions they made, somehow hide the truth of the conspiracy. These grand affairs are hardly my forté...But dear Rogier began to weep as he spoke...In truth I've heard tell from someone else, about the black knifeprints that fascinate dear Rogier so.
-    - Gave me *Knifeprint Clue*, a simple map showing the location of a *black knifeprint*
-    - Also asked me to find the owner of a *Weathered Dagger*, which turned out to be *D, Hunter of the Dead*
-        - After giving *D* the dagger, he's later found next to *Fia*, dead
-        > "Finally, it is returned to its rightful place. The stolen hallowbrand, of the exalted noble. And now, I must bid you goodbye as well. Though I ask you deliver this message to the Roundtable Hold. I am Fia, Deathbed Companion. Hark, Roundtable. Disturb not the Death of Godwyn, the exalted. We, who humbly live in Death...Live in waiting, to one day welcome our Lord. What right does anyone have to object? Our Lord will rise. The Lord of the many, and the meek."
-    - She disappears from *Roundtable Hold*
-- *Gideon Ofnir*
-    > Oh, this is a rare occasion. I can't remember the last time a new Tarnished made their way to the Roundtable. Very well. As your senior, I bid you welcome. It is safe here. You may let down your guard. <br>
-    > Follow the guidance of grace, lay low the shardbearers, and claim for yourself a Great Rune. <br>
-    > Do so, and the doors to the Roundtable's inner chamber will open. And you will receive the wisdom of the *Two Fingers*.
-    - ~~*Godrick*~~:
-        > So. *Godrick the Grafted*, Lord of *Stormveil*. Despite being the blood of *Godfrey*, first **Elden Lord**, he's a grotesque old fool, grasping for power. His castle lies upon the cliff to *Limgrave's* northwest, but I suspect you know that well enough already.
-    - ~~*Rennala*~~
-        > The *Academy of Raya Lucaria* lies to *Limgrave's* north, towering over the mist-laden lands of *Liurnia*. *Rennala* is the queen of the Carian royals, who govern the academy. But *Rennala* herself is no demigod. Her beloved, *Radagon*, left her to become *Queen Marika's* second husband, taking the title of **King Consort**. The **Great Rune** dwells within the amber egg that was *Radagon's* gift to her.
-    - ~~*Radahn*~~:
-        > *General Radahn*, the famed Red Lion and scourge of the stars, is a ferocious warrior. He fought *Malenia* and her rot to a standstill in the *Caelid Wilds* to *Limgrave's* east. And now Caelid has been engulfed by the scarlet rot, even approaching the region is no mean feat. I've heard survivors of *Radahn's* army are still in the wilds, staving off the rot with fire. And if it's true, I suspect *Radahn* is still there as well, in *Caelid*. Though I doubt he much resembles his former self anymore...
-    - *Rykard*:
-        > *Praetor Rykard* is the Lord of the *Volcano Manor* on *Mt. Gelmir*. He is a ruthless justiciar who commands a company of inquisitors, reviled for his serpentine demeanour. The volcano, *Mt. Gelmir*, lies in the west of the *Altus Plateau*; the realm of the **Erdtree**. It was the stage of the most appalling battle in the entirety of the **Shattering**. *Rykard* has commited the grave sin of blasphemy. Marking himself as an enemy, never to be forgiven.
-    - *Morgott*:
-        > *Morgott* the Grace-Given is Lord of *Leyndell*, the capital city. It lies at the foot of the Erdtree, in the east of the *Altus Plateau*. But the *Two Fingers* forbid us from venturing there. Until we've acquired enough **Great Runes** to repair the **Elden Ring**. Set your sights elsewhere for the time being. The Veiled Monarch can wait.
-- *Gowry* 
-    - in [*Caelid*](#caelid) has asked me to heal *Millicent*, but first I must find a gold needle hidden somewhere deep in the scarlet swamp of *Aeonia*.
-    - Defeated *Commander O'Neil* and collected `Unalloyed Gold Needle`.
-    - Shared with me the secret of lighting the torchest atop the candle towers in *Sellia* to break the seal(s).
-    - Asked for some time with the needle; I need to come back.
-    - I returned, and he gave me the needle to deliver to *Millicent*. She stabbed herself with the needle passed out, and then later woke up feeling healed. 
-    - She said she's going to leave on a journey...
-- *Gurranq, Beast Clergyman*
-    - Located at *Bestial Sanctum** in *Caelid*; introduced by *D, Hunter of the Dead*
-    - Craves *Deathroot*
-        > I smell it... Death... Feed it me...Tarnished... bring more... Death. I shall grant thee... eye... and claw. Feed me... more.
-    - Upon giving him more for the root:
-        > More... I am not sated... Feed me more... Death.
-    - Eventually he turned hostile. I should return there when I am stronger.
-- *Kenneth Haight*
-    > You might have heard of me. Kenneth Haight. Next in line as the rightful ruler of Limgrave".
-    - Asks me to take back his fort, to the south of *Mistwood*, from a Knight commander who overtook it
-    > I would take great care to avoid Godrick's Tarnished hunts, were I in your shoes. That depraved lot are obsessed with sacrificing Tarnished like you for the sake of "grafting."
-    > Honestly, *Godrick’s* no more than a jumped up country bumpkin. Lord? Don’t make me laugh. First he hid himself amongst the womenfolk to flee the capital, then hid from *Radahn* in that castle… Then he insulted *Malenia*, lost to her in battle, only to lick her boots rather than die like a man.
-    - Offers to take me into his service to learn about the true Order of the Erdtree, which I accept.
-    - We return to his castle, where he acknowledges the poor state of things and admits that he does not have authority to knight me at this time.
-    > Oh, indeed, it is a foul fate for a land, to be without a ruler. One must be found, with haste. And not that Awful Godrick. But a true and stalwart Lord of the proper lineage to take the reigns of Limgrave.
-- *Latenna*
-    - Take her to `Miquella's Haligtree` in *Castle Sol*, on the *Mountaintops of the Giants*, accessible by the *Grand Lift of Rold*.
-    - Per Gideon's guidance, I searched for her and gave her my half of the `Haligtree Secret Medallion`.
-    - Need to search for *Grand Lift of Rold*.
-- *Ranni*: 
-    - Recover hidden treasure of *Nokron, the Eternal City* with *Blaidd*.
-    - After meeting *Blaidd* in *Sofria River*, he invited me to join him in *Caelid* to fight *Radahn*
-        > So Ranni’s fate is kept in stasis by Starscourge Radahn… That reminds me of something I heard. There’s a festival being held at the castle on the southern edge of the Caelid Wilds, east of Limgrave. It’s a festival of combat. And I heard… that you can fight Radahn himself.
-    - After defeating *Radahn*, *Blaidd* said that our path to *Nokron* is clear:
-        > Let’s meet where the falling star bit the earth. And we’ll go into battle again, side by side. My only purpose is to fight for Ranni’s fate, sword and fang. The curtain’s rising… on the final act.
-    - Proceed witht his questline to unlock additional areas within *Carian Study Hall*...
-- *Rya*
-    - In [*Liurnia of the Lakes*](#liurnia-of-the-lakes) mentioned *Volcano Manor*, which I was transported to from *Academy of Raya Lucaria*.
-- *Sellen*
-    - Freed from the basement of *Waypoint Ruins* and has offered to teach me about sorcery in exchange for helping her.
-    > Our powers draw upon the powers embedded in glintstone, but what is the nature of such power?
-    > It should not be forgotten that glintstone sorcery is the study of the stars and the life therein.
-    - Despite no dialog indicating this, I apparently need to collect *Comet Azur* from *Primeval Sorcerer Azur* in *Hermit Village* in *Mt. Gelmir*.
-- *Seluvis*
-    - Give his potion to *Nepheli* or give it to *Gideon*, who believes that *Seluvis* is a piece of shit and that *Nepheli* (his daughter) isn't herself.
-    - Gave it to *Gideon*, who said I should pretend that I should pretend that I got *Nepheli* to drink it.
-- *Sorcerer Rogier*
-    > The misshapen corpse under Stormveil? That is a sacred relic. Of the black knives plot. It happened during the Golden Age of the Erdtree, long before the shattering of the Elden Ring. Someone stole a fragment of the Rune of Death from Maliketh, the Black Blade. And on a bitter night, murdered Godwyn the Golden. That was the first recorded Death of a demigod in all history. And it became the catalyst. Soon, the Elden Ring was smashed, and thus sprang forth the war known as the Shattering.
-    - I gave him the *Black Knifeprint* for analysis:
-        > Now, I have a fairly good idea who performed the rite upon the blade. The person who orchestrated the Night of the Black Knives. Lunar Princess Ranni. One of the children born to King Consort Radagon and his first wife, Rennala. Demigod and sister to General Radahn and Praetor Rykard. Her's was the name I discovered in the imprint. Truly, you have my thanks. But, if I might be so bold, I would also like to ask something more of you. If Ranni truly is the one who plotted that fateful night, then she should bear the cursemark of Destined Death somewhere upon her flesh. I would like you to procure it for me. And then all will be laid bare. I will have the answers I have sought for so long.
-    - When asked about why he pursues *Ranni's* cursemark, he explained:
-        > I'm afraid there's something I must tell you. Do you know of Those Who Live in Death? The very notion of life in death defies the Golden Order. By D's account, these defiled fiends must be expunged. But truth be told, I seek the cursemark to save them. You may find this peculiar, but I discovered something in my examination of the Night of the Black Knives. These souls have committed no offence. They have every right to life, only, they happened to touch upon a flaw in the Order.
+#### *Boc*
+- Give him the `Golden Sewing Needle`.
+- After defeating *Radahn* I spoke with *Finger Reader Enia* at the *Roundtable Hold* and collected his armor set.
+- *Boc* recognized the armor and said he needs the golden needle to work on it; I gave him the needle:
+    > Are you certain that this is for me? Oh, I can hardly believe it. Have faith in me, Master! 
+    > I'll polish my craft enough that I deserve this golden gift! I'll be the golden seamster, *Boc*! Now I'll be able to sew anything, even the threads of the demigods!"
+- Despite being able to sew demigod clothing now, he still feels that is not worthy of his mother's pride:
+    > That I'm as good as any royal seamster, now. Oh, it's still not enough. I need to learn how to sew from scratch, like her."
+#### *Brother Corhyn*
+- Investigating the **Golden Order**; offers incantations at *Roundtable Hold*
+> I teach incantations, the strength granted us by the *Two Fingers*, and explore the secrets of the Golden Order.
+> I've decided to leave the Roundtable Hold after all. As I mentioned, I'm off in search of the noble Goldmask.
+#### *D, Hunter of the Dead*
+- Found east of *Saintsbridge*; warns me against going to *Summonwater Village*
+    > I hunt down Those Who Live in Death, and weed their Deathroot. Heed my warning. Those Who Live in Death should be left well alone.
+- He directed me to go to the *Bestial Sanctum* in *Caelid*.
+#### *Diallos*
+- Asks about a woman named *Lanya*, his servant, and asks me to let him know if I find her.
+    > She's a servant to my house. She's been my companion since childhood. I've lost count of the number of times I've had to find her like this. 
+    > Honestly, she's such a little tomboy.
+- He's headed to *Volcano Manor* on *Mt. Gelmir*.
+    > The location of the recusant hideout. It's on *Mt. Gelmir*, found off the old road that leads west from the town of windmills. 
+    > That's where they hide. The manor on the peak. Just you wait, wretched recusants. You'll rue the day you insulted my name by laying hands on *Lanya*.
+    > "The tale of `House Hoslow` is told in blood" after all.
+#### *Enia, the Finger Reader*
+- Introduction of the *Two Fingers* and background on the **Elden Ring**:
+    > I interpret the words of the *Fingers*, envoys to the **Greater Will**.
+    > `Demigods`, and even the greater of the champions, are hewn by the **Erdtree** upon their end, into `remembrances`.
+    > These `remembrances` yet house the power of their former masters. And should you wish to wield that same power, well... I will lend you the strength of the *Fingers*.
+    > *Great Runes* are the stuff of `demigods`: the children of the goddess, *Queen Marika*. She who is vessel of the **Elden Ring**. 
+    > Tainted by the strength of their runes, her children warred, but none could become **Elden Lord**. And so grace was extended, to your kind, the **Tarnished**".
+- Background on *Queen Marika*:
+    > *Queen Marika* is the vessel of the **Elden Ring**, carrier of its vision. A god, in truth. But after the **Elden Ring's** shattering, she was imprisoned in the **Erdtree**.
+    > A grim punishment for shattering the **Order**, despite her godhood. The *Fingers* speak...
+        > *Marika's* trespass demanded a heavy sentence. But even in shackles, she remains a god, and the vision's vessel.
+        > Confer **Great Runes** to become **Elden Lord**, and join *Queen Marika* as her `consort`. The *Fingers* have willed it so.
+- After defeating *Radahn*:
+    > I had my doubts, but...my, look at you. Only once before have I seen two **Great Runes** together. Look there. The *Fingers* shudder with exuberance.
+    > Fine work, brave **Tarnished**. The **Greater Will** is pleased. You have earned the right to become E**lden Lord**. 
+    > Now, seek the **Erdtree**, and an audience with *Queen Marika*. To become **Elden Lord**, and restore the **Golden Order**.
+    > The *Fingers* expect... As much from you as they do young *Gideon*.
+#### *Fia, Deathbed Companion*
+> I was known as a Deathbed Companion, where I come from.
+- Provides *Balchadin's Blessing* in exchange for a hug
+> My dear... Have you ever heard of black knifeprints? Dear Rogier likes to talk of it when abed. The ancient plot, in which the first of the Demigods was slain. The black knifes wielded by the assassins who committed the act, along with the impressions they made, somehow hide the truth of the conspiracy. These grand affairs are hardly my forté...But dear Rogier began to weep as he spoke...In truth I've heard tell from someone else, about the black knifeprints that fascinate dear Rogier so.
+- Gave me *Knifeprint Clue*, a simple map showing the location of a *black knifeprint*
+- Also asked me to find the owner of a *Weathered Dagger*, which turned out to be *D, Hunter of the Dead*
+    - After giving *D* the dagger, he's later found next to *Fia*, dead
+    > "Finally, it is returned to its rightful place. The stolen hallowbrand, of the exalted noble. And now, I must bid you goodbye as well. Though I ask you deliver this message to the Roundtable Hold. I am Fia, Deathbed Companion. Hark, Roundtable. Disturb not the Death of Godwyn, the exalted. We, who humbly live in Death...Live in waiting, to one day welcome our Lord. What right does anyone have to object? Our Lord will rise. The Lord of the many, and the meek."
+- She disappears from *Roundtable Hold*
+#### *Gideon Ofnir*
+> Oh, this is a rare occasion. I can't remember the last time a new Tarnished made their way to the Roundtable. Very well. As your senior, I bid you welcome. It is safe here. You may let down your guard. <br>
+> Follow the guidance of grace, lay low the shardbearers, and claim for yourself a Great Rune. <br>
+> Do so, and the doors to the Roundtable's inner chamber will open. And you will receive the wisdom of the *Two Fingers*.
+- ~~*Godrick*~~:
+    > So. *Godrick the Grafted*, Lord of *Stormveil*. Despite being the blood of *Godfrey*, first **Elden Lord**, he's a grotesque old fool, grasping for power. His castle lies upon the cliff to *Limgrave's* northwest, but I suspect you know that well enough already.
+- ~~*Rennala*~~
+    > The *Academy of Raya Lucaria* lies to *Limgrave's* north, towering over the mist-laden lands of *Liurnia*. *Rennala* is the queen of the Carian royals, who govern the academy. But *Rennala* herself is no demigod. Her beloved, *Radagon*, left her to become *Queen Marika's* second husband, taking the title of **King Consort**. The **Great Rune** dwells within the amber egg that was *Radagon's* gift to her.
+- ~~*Radahn*~~:
+    > *General Radahn*, the famed Red Lion and scourge of the stars, is a ferocious warrior. He fought *Malenia* and her rot to a standstill in the *Caelid Wilds* to *Limgrave's* east. And now Caelid has been engulfed by the scarlet rot, even approaching the region is no mean feat. I've heard survivors of *Radahn's* army are still in the wilds, staving off the rot with fire. And if it's true, I suspect *Radahn* is still there as well, in *Caelid*. Though I doubt he much resembles his former self anymore...
+- *Rykard*:
+    > *Praetor Rykard* is the Lord of the *Volcano Manor* on *Mt. Gelmir*. He is a ruthless justiciar who commands a company of inquisitors, reviled for his serpentine demeanour. The volcano, *Mt. Gelmir*, lies in the west of the *Altus Plateau*; the realm of the **Erdtree**. It was the stage of the most appalling battle in the entirety of the **Shattering**. *Rykard* has commited the grave sin of blasphemy. Marking himself as an enemy, never to be forgiven.
+- *Morgott*:
+    > *Morgott* the Grace-Given is Lord of *Leyndell*, the capital city. It lies at the foot of the Erdtree, in the east of the *Altus Plateau*. But the *Two Fingers* forbid us from venturing there. Until we've acquired enough **Great Runes** to repair the **Elden Ring**. Set your sights elsewhere for the time being. The Veiled Monarch can wait.
+#### *Gowry* 
+- Asked me to heal *Millicent*, but first I must find a gold needle hidden somewhere deep in the scarlet swamp of *Aeonia*.
+- Defeated *Commander O'Neil* and collected `Unalloyed Gold Needle`.
+- Shared with me the secret of lighting the torchest atop the candle towers in *Sellia* to break the seal(s).
+- Asked for some time with the needle; I need to come back.
+- I returned, and he gave me the needle to deliver to [*Millicent*](#gowry).
+#### *Gurranq, Beast Clergyman*
+- Located at *Bestial Sanctum** in *Caelid*; introduced by *D, Hunter of the Dead*
+- Craves *Deathroot*
+    > I smell it... Death... Feed it me...Tarnished... bring more... Death. I shall grant thee... eye... and claw. Feed me... more.
+- Upon giving him more for the root:
+    > More... I am not sated... Feed me more... Death.
+- Eventually he turned hostile. I should return there when I am stronger.
+#### *Kenneth Haight*
+> You might have heard of me. Kenneth Haight. Next in line as the rightful ruler of Limgrave".
+- Asks me to take back his fort, to the south of *Mistwood*, from a Knight commander who overtook it
+> I would take great care to avoid Godrick's Tarnished hunts, were I in your shoes. That depraved lot are obsessed with sacrificing Tarnished like you for the sake of "grafting."
+> Honestly, *Godrick’s* no more than a jumped up country bumpkin. Lord? Don’t make me laugh. First he hid himself amongst the womenfolk to flee the capital, then hid from *Radahn* in that castle… Then he insulted *Malenia*, lost to her in battle, only to lick her boots rather than die like a man.
+- Offers to take me into his service to learn about the true Order of the Erdtree, which I accept.
+- We return to his castle, where he acknowledges the poor state of things and admits that he does not have authority to knight me at this time.
+> Oh, indeed, it is a foul fate for a land, to be without a ruler. One must be found, with haste. And not that Awful Godrick. But a true and stalwart Lord of the proper lineage to take the reigns of Limgrave.
+#### *Latenna*
+- Take her to `Miquella's Haligtree` in *Castle Sol*, on the *Mountaintops of the Giants*, accessible by the *Grand Lift of Rold*.
+- Per Gideon's guidance, I searched for her and gave her my half of the `Haligtree Secret Medallion`.
+- Need to search for *Grand Lift of Rold*.
+#### *Millicent*
+- Met through [Gowry](#gowry) questline.
+- She stabbed herself with the needle from *Gowry* and passed out, and then later woke up feeling healed. 
+- She said she's going to leave on a journey...
+- Found her again on *Altus Plateau*, following *Malenia's* path, in the lands beyond the **Erdtree**.
+#### *Ranni*: 
+- Recover hidden treasure of *Nokron, the Eternal City* with *Blaidd*.
+- After meeting *Blaidd* in *Sofria River*, he invited me to join him in *Caelid* to fight *Radahn*
+    > So Ranni’s fate is kept in stasis by Starscourge Radahn… That reminds me of something I heard. There’s a festival being held at the castle on the southern edge of the Caelid Wilds, east of Limgrave. It’s a festival of combat. And I heard… that you can fight Radahn himself.
+- After defeating *Radahn*, *Blaidd* said that our path to *Nokron* is clear:
+    > Let’s meet where the falling star bit the earth. And we’ll go into battle again, side by side. My only purpose is to fight for Ranni’s fate, sword and fang. The curtain’s rising… on the final act.
+- Proceed with this questline to unlock additional areas within *Carian Study Hall*...
+#### *Rya*
+- In [*Liurnia of the Lakes*](#liurnia-of-the-lakes) mentioned *Volcano Manor*, which I was transported to from *Academy of Raya Lucaria*.
+#### *Sellen*
+- Freed from the basement of *Waypoint Ruins* and has offered to teach me about sorcery in exchange for helping her.
+> Our powers draw upon the powers embedded in glintstone, but what is the nature of such power?
+> It should not be forgotten that glintstone sorcery is the study of the stars and the life therein.
+- Despite no dialog indicating this, I apparently need to collect *Comet Azur* from *Primeval Sorcerer Azur* in *Hermit Village* in *Mt. Gelmir*.
+#### *Seluvis*
+- Give his potion to *Nepheli* or give it to *Gideon*, who believes that *Seluvis* is a piece of shit and that *Nepheli* (his daughter) isn't herself.
+- Gave it to *Gideon*, who said I should pretend that I should pretend that I got *Nepheli* to drink it.
+#### *Sorcerer Rogier*
+> The misshapen corpse under Stormveil? That is a sacred relic. Of the black knives plot. It happened during the Golden Age of the Erdtree, long before the shattering of the Elden Ring. Someone stole a fragment of the Rune of Death from Maliketh, the Black Blade. And on a bitter night, murdered Godwyn the Golden. That was the first recorded Death of a demigod in all history. And it became the catalyst. Soon, the Elden Ring was smashed, and thus sprang forth the war known as the Shattering.
+- I gave him the *Black Knifeprint* for analysis:
+    > Now, I have a fairly good idea who performed the rite upon the blade. The person who orchestrated the Night of the Black Knives. Lunar Princess Ranni. One of the children born to King Consort Radagon and his first wife, Rennala. Demigod and sister to General Radahn and Praetor Rykard. Her's was the name I discovered in the imprint. Truly, you have my thanks. But, if I might be so bold, I would also like to ask something more of you. If Ranni truly is the one who plotted that fateful night, then she should bear the cursemark of Destined Death somewhere upon her flesh. I would like you to procure it for me. And then all will be laid bare. I will have the answers I have sought for so long.
+- When asked about why he pursues *Ranni's* cursemark, he explained:
+    > I'm afraid there's something I must tell you. Do you know of Those Who Live in Death? The very notion of life in death defies the Golden Order. By D's account, these defiled fiends must be expunged. But truth be told, I seek the cursemark to save them. You may find this peculiar, but I discovered something in my examination of the Night of the Black Knives. These souls have committed no offence. They have every right to life, only, they happened to touch upon a flaw in the Order.
 
 ### To Do
 
